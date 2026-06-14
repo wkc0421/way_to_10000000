@@ -1,0 +1,826 @@
+{
+  "review_date": "20260612",
+  "note": "Morning watch pool record plus Eastmoney 1-minute intraday data. No chart image generated.",
+  "watch_pool": [
+    {
+      "group": "电力锚定",
+      "name": "华电辽能",
+      "code": "600396",
+      "note": "早盘关注池"
+    },
+    {
+      "group": "电力锚定",
+      "name": "大唐发电",
+      "code": "601991",
+      "note": "早盘关注池"
+    },
+    {
+      "group": "物理AI锚定",
+      "name": "达实智能",
+      "code": "002421",
+      "note": "早盘关注池"
+    },
+    {
+      "group": "物理AI锚定",
+      "name": "天娱数科",
+      "code": "002354",
+      "note": "早盘关注池"
+    },
+    {
+      "group": "上一连板高标",
+      "name": "大有能源",
+      "code": "600403",
+      "note": "六板"
+    },
+    {
+      "group": "昨日晋级失败高标",
+      "name": "金安国纪",
+      "code": "002636",
+      "note": "昨日晋级失败高标"
+    },
+    {
+      "group": "昨日晋级成功高标",
+      "name": "宿迁联盛",
+      "code": "603065",
+      "note": "昨日晋级成功高标"
+    },
+    {
+      "group": "昨日晋级成功高标",
+      "name": "和远气体",
+      "code": "002971",
+      "note": "昨日晋级成功高标"
+    },
+    {
+      "group": "昨日晋级成功高标",
+      "name": "中化国际",
+      "code": "600500",
+      "note": "昨日晋级成功高标"
+    },
+    {
+      "group": "六氟化钨核心",
+      "name": "中船特气",
+      "code": "688146",
+      "note": "六氟化钨核心"
+    }
+  ],
+  "stocks": [
+    {
+      "group": "电力锚定",
+      "name": "华电辽能",
+      "code": "600396",
+      "note": "早盘关注池",
+      "secid": "1.600396",
+      "eastmoney_name": "华电辽能",
+      "prev_close": 17.73,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 17.9,
+        "open_pct": 0.96,
+        "close": 17.5,
+        "close_pct": -1.3,
+        "high": 18.47,
+        "high_time": "09:41",
+        "high_pct": 4.17,
+        "low": 16.58,
+        "low_time": "13:36",
+        "low_pct": -6.49,
+        "amount_yi": 49.41,
+        "volume_lot": 2813666.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 17.7,
+          "last_pct": -0.17,
+          "high": 18.47,
+          "high_time": "09:41",
+          "high_pct": 4.17,
+          "low": 17.42,
+          "low_time": "09:50",
+          "low_pct": -1.75,
+          "amount_yi": 17.51
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 17.39,
+          "last_pct": -1.92,
+          "high": 18.47,
+          "high_time": "09:41",
+          "high_pct": 4.17,
+          "low": 17.33,
+          "low_time": "10:24",
+          "low_pct": -2.26,
+          "amount_yi": 22.23
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_600396_intraday.csv",
+      "intraday_source_url": "http://push2.eastmoney.com/api/qt/stock/trends2/get?secid=1.600396&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": "https://push2.eastmoney.com/api/qt/stock/kline/get?secid=1.600396&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260609&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=1.600396&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 17.5,
+        "open": 17.9,
+        "high": 18.47,
+        "low": 16.58,
+        "prev_close": 17.73,
+        "change": -0.23,
+        "pct_chg": -1.3,
+        "turnover_rate": 19.11,
+        "amount": 4940634050.0,
+        "market_value": 25772369297.5,
+        "eastmoney_name": "华电辽能"
+      }
+    },
+    {
+      "group": "电力锚定",
+      "name": "大唐发电",
+      "code": "601991",
+      "note": "早盘关注池",
+      "secid": "1.601991",
+      "eastmoney_name": "大唐发电",
+      "prev_close": 7.99,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 7.91,
+        "open_pct": -1.0,
+        "close": 8.09,
+        "close_pct": 1.25,
+        "high": 8.2,
+        "high_time": "09:33",
+        "high_pct": 2.63,
+        "low": 7.8,
+        "low_time": "09:48",
+        "low_pct": -2.38,
+        "amount_yi": 41.89,
+        "volume_lot": 5242678.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 7.97,
+          "last_pct": -0.25,
+          "high": 8.2,
+          "high_time": "09:33",
+          "high_pct": 2.63,
+          "low": 7.8,
+          "low_time": "09:48",
+          "low_pct": -2.38,
+          "amount_yi": 15.92
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 7.97,
+          "last_pct": -0.25,
+          "high": 8.2,
+          "high_time": "09:33",
+          "high_pct": 2.63,
+          "low": 7.8,
+          "low_time": "09:48",
+          "low_pct": -2.38,
+          "amount_yi": 19.71
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_601991_intraday.csv",
+      "intraday_source_url": "http://push2.eastmoney.com/api/qt/stock/trends2/get?secid=1.601991&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": "http://push2.eastmoney.com/api/qt/stock/kline/get?secid=1.601991&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260609&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "https://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=1.601991&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 8.09,
+        "open": 7.91,
+        "high": 8.2,
+        "low": 7.8,
+        "prev_close": 7.99,
+        "change": 0.1,
+        "pct_chg": 1.25,
+        "turnover_rate": 4.23,
+        "amount": 4189102975.0,
+        "market_value": 149719287977.36,
+        "eastmoney_name": "大唐发电"
+      }
+    },
+    {
+      "group": "物理AI锚定",
+      "name": "达实智能",
+      "code": "002421",
+      "note": "早盘关注池",
+      "secid": "0.002421",
+      "eastmoney_name": "达实智能",
+      "prev_close": 4.89,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 4.4,
+        "open_pct": -10.02,
+        "close": 4.4,
+        "close_pct": -10.02,
+        "high": 4.64,
+        "high_time": "10:10",
+        "high_pct": -5.11,
+        "low": 4.4,
+        "low_time": "09:30",
+        "low_pct": -10.02,
+        "amount_yi": 29.45,
+        "volume_lot": 6643431.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 4.4,
+          "last_pct": -10.02,
+          "high": 4.4,
+          "high_time": "09:30",
+          "high_pct": -10.02,
+          "low": 4.4,
+          "low_time": "09:30",
+          "low_pct": -10.02,
+          "amount_yi": 2.79
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 4.41,
+          "last_pct": -9.82,
+          "high": 4.64,
+          "high_time": "10:10",
+          "high_pct": -5.11,
+          "low": 4.4,
+          "low_time": "09:30",
+          "low_pct": -10.02,
+          "amount_yi": 19.82
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_002421_intraday.csv",
+      "intraday_source_url": "http://push2.eastmoney.com/api/qt/stock/trends2/get?secid=0.002421&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": null,
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "https://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=0.002421&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 4.4,
+        "open": 4.4,
+        "high": 4.64,
+        "low": 4.4,
+        "prev_close": 4.89,
+        "change": -0.49,
+        "pct_chg": -10.02,
+        "turnover_rate": 33.16,
+        "amount": 2945485155.78,
+        "market_value": 9330559211.6,
+        "eastmoney_name": "达实智能"
+      }
+    },
+    {
+      "group": "物理AI锚定",
+      "name": "天娱数科",
+      "code": "002354",
+      "note": "早盘关注池",
+      "secid": "0.002354",
+      "eastmoney_name": "天娱数科",
+      "prev_close": 7.98,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 7.42,
+        "open_pct": -7.02,
+        "close": 7.52,
+        "close_pct": -5.76,
+        "high": 8.12,
+        "high_time": "10:10",
+        "high_pct": 1.75,
+        "low": 7.3,
+        "low_time": "09:39",
+        "low_pct": -8.52,
+        "amount_yi": 46.42,
+        "volume_lot": 6080470.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 7.86,
+          "last_pct": -1.5,
+          "high": 7.87,
+          "high_time": "09:56",
+          "high_pct": -1.38,
+          "low": 7.3,
+          "low_time": "09:39",
+          "low_pct": -8.52,
+          "amount_yi": 22.3
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 7.83,
+          "last_pct": -1.88,
+          "high": 8.12,
+          "high_time": "10:10",
+          "high_pct": 1.75,
+          "low": 7.3,
+          "low_time": "09:39",
+          "low_pct": -8.52,
+          "amount_yi": 29.81
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_002354_intraday.csv",
+      "intraday_source_url": "http://push2.eastmoney.com/api/qt/stock/trends2/get?secid=0.002354&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": null,
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "https://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=0.002354&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 7.52,
+        "open": 7.42,
+        "high": 8.12,
+        "low": 7.3,
+        "prev_close": 7.98,
+        "change": -0.46,
+        "pct_chg": -5.76,
+        "turnover_rate": 37.4,
+        "amount": 4641983264.82,
+        "market_value": 12442485366.4,
+        "eastmoney_name": "天娱数科"
+      }
+    },
+    {
+      "group": "上一连板高标",
+      "name": "大有能源",
+      "code": "600403",
+      "note": "六板",
+      "secid": "1.600403",
+      "eastmoney_name": "大有能源",
+      "prev_close": 8.05,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 7.25,
+        "open_pct": -9.94,
+        "close": 7.25,
+        "close_pct": -9.94,
+        "high": 7.45,
+        "high_time": "13:01",
+        "high_pct": -7.45,
+        "low": 7.25,
+        "low_time": "09:30",
+        "low_pct": -9.94,
+        "amount_yi": 6.83,
+        "volume_lot": 941339.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 7.25,
+          "last_pct": -9.94,
+          "high": 7.25,
+          "high_time": "09:30",
+          "high_pct": -9.94,
+          "low": 7.25,
+          "low_time": "09:30",
+          "low_pct": -9.94,
+          "amount_yi": 0.91
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 7.25,
+          "last_pct": -9.94,
+          "high": 7.25,
+          "high_time": "09:30",
+          "high_pct": -9.94,
+          "low": 7.25,
+          "low_time": "09:30",
+          "low_pct": -9.94,
+          "amount_yi": 1.06
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_600403_intraday.csv",
+      "intraday_source_url": "http://push2.eastmoney.com/api/qt/stock/trends2/get?secid=1.600403&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": null,
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "https://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=1.600403&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 7.25,
+        "open": 7.25,
+        "high": 7.45,
+        "low": 7.25,
+        "prev_close": 8.05,
+        "change": -0.8,
+        "pct_chg": -9.94,
+        "turnover_rate": 3.94,
+        "amount": 682862052.0,
+        "market_value": 17333389914.5,
+        "eastmoney_name": "大有能源"
+      }
+    },
+    {
+      "group": "昨日晋级失败高标",
+      "name": "金安国纪",
+      "code": "002636",
+      "note": "昨日晋级失败高标",
+      "secid": "0.002636",
+      "eastmoney_name": "金安国纪",
+      "prev_close": 84.8,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 89.99,
+        "open_pct": 6.12,
+        "close": 89.88,
+        "close_pct": 5.99,
+        "high": 93.28,
+        "high_time": "09:34",
+        "high_pct": 10.0,
+        "low": 86.92,
+        "low_time": "09:31",
+        "low_pct": 2.5,
+        "amount_yi": 75.8,
+        "volume_lot": 843771.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 93.28,
+          "last_pct": 10.0,
+          "high": 93.28,
+          "high_time": "09:34",
+          "high_pct": 10.0,
+          "low": 86.92,
+          "low_time": "09:31",
+          "low_pct": 2.5,
+          "amount_yi": 20.48
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 93.28,
+          "last_pct": 10.0,
+          "high": 93.28,
+          "high_time": "09:34",
+          "high_pct": 10.0,
+          "low": 86.92,
+          "low_time": "09:31",
+          "low_pct": 2.5,
+          "amount_yi": 21.01
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_002636_intraday.csv",
+      "intraday_source_url": "https://push2.eastmoney.com/api/qt/stock/trends2/get?secid=0.002636&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": "http://push2.eastmoney.com/api/qt/stock/kline/get?secid=0.002636&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260609&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "https://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://80.push2.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=0.002636&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 89.88,
+        "open": 89.99,
+        "high": 93.28,
+        "low": 86.92,
+        "prev_close": 84.8,
+        "change": 5.08,
+        "pct_chg": 5.99,
+        "turnover_rate": 11.65,
+        "amount": 7580017890.48,
+        "market_value": 65432640000.0,
+        "eastmoney_name": "金安国纪"
+      }
+    },
+    {
+      "group": "昨日晋级成功高标",
+      "name": "宿迁联盛",
+      "code": "603065",
+      "note": "昨日晋级成功高标",
+      "secid": "1.603065",
+      "eastmoney_name": "宿迁联盛",
+      "prev_close": 12.36,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 13.6,
+        "open_pct": 10.03,
+        "close": 13.6,
+        "close_pct": 10.03,
+        "high": 13.6,
+        "high_time": "09:30",
+        "high_pct": 10.03,
+        "low": 13.6,
+        "low_time": "09:30",
+        "low_pct": 10.03,
+        "amount_yi": 1.34,
+        "volume_lot": 98637.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 13.6,
+          "last_pct": 10.03,
+          "high": 13.6,
+          "high_time": "09:30",
+          "high_pct": 10.03,
+          "low": 13.6,
+          "low_time": "09:30",
+          "low_pct": 10.03,
+          "amount_yi": 0.83
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 13.6,
+          "last_pct": 10.03,
+          "high": 13.6,
+          "high_time": "09:30",
+          "high_pct": 10.03,
+          "low": 13.6,
+          "low_time": "09:30",
+          "low_pct": 10.03,
+          "amount_yi": 0.94
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_603065_intraday.csv",
+      "intraday_source_url": "https://push2.eastmoney.com/api/qt/stock/trends2/get?secid=1.603065&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": null,
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "https://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://80.push2.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=1.603065&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 13.6,
+        "open": 13.6,
+        "high": 13.6,
+        "low": 13.6,
+        "prev_close": 12.36,
+        "change": 1.24,
+        "pct_chg": 10.03,
+        "turnover_rate": 2.35,
+        "amount": 134146429.0,
+        "market_value": 5697958979.2,
+        "eastmoney_name": "宿迁联盛"
+      }
+    },
+    {
+      "group": "昨日晋级成功高标",
+      "name": "和远气体",
+      "code": "002971",
+      "note": "昨日晋级成功高标",
+      "secid": "0.002971",
+      "eastmoney_name": "和远气体",
+      "prev_close": 52.75,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 55.0,
+        "open_pct": 4.27,
+        "close": 58.03,
+        "close_pct": 10.01,
+        "high": 58.03,
+        "high_time": "09:31",
+        "high_pct": 10.01,
+        "low": 54.4,
+        "low_time": "09:31",
+        "low_pct": 3.13,
+        "amount_yi": 33.25,
+        "volume_lot": 577699.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 58.03,
+          "last_pct": 10.01,
+          "high": 58.03,
+          "high_time": "09:31",
+          "high_pct": 10.01,
+          "low": 54.4,
+          "low_time": "09:31",
+          "low_pct": 3.13,
+          "amount_yi": 15.2
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 58.03,
+          "last_pct": 10.01,
+          "high": 58.03,
+          "high_time": "09:31",
+          "high_pct": 10.01,
+          "low": 54.4,
+          "low_time": "09:31",
+          "low_pct": 3.13,
+          "amount_yi": 18.86
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_002971_intraday.csv",
+      "intraday_source_url": "http://push2.eastmoney.com/api/qt/stock/trends2/get?secid=0.002971&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": null,
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "https://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=0.002971&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 58.03,
+        "open": 55.0,
+        "high": 58.03,
+        "low": 54.4,
+        "prev_close": 52.75,
+        "change": 5.28,
+        "pct_chg": 10.01,
+        "turnover_rate": 36.94,
+        "amount": 3325475350.02,
+        "market_value": 12288142650.0,
+        "eastmoney_name": "和远气体"
+      }
+    },
+    {
+      "group": "昨日晋级成功高标",
+      "name": "中化国际",
+      "code": "600500",
+      "note": "昨日晋级成功高标",
+      "secid": "1.600500",
+      "eastmoney_name": "中化国际",
+      "prev_close": 7.21,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 7.9,
+        "open_pct": 9.57,
+        "close": 7.93,
+        "close_pct": 9.99,
+        "high": 7.93,
+        "high_time": "09:32",
+        "high_pct": 9.99,
+        "low": 7.48,
+        "low_time": "09:31",
+        "low_pct": 3.74,
+        "amount_yi": 45.67,
+        "volume_lot": 5777940.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 7.93,
+          "last_pct": 9.99,
+          "high": 7.93,
+          "high_time": "09:32",
+          "high_pct": 9.99,
+          "low": 7.48,
+          "low_time": "09:31",
+          "low_pct": 3.74,
+          "amount_yi": 30.96
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 7.93,
+          "last_pct": 9.99,
+          "high": 7.93,
+          "high_time": "09:32",
+          "high_pct": 9.99,
+          "low": 7.48,
+          "low_time": "09:31",
+          "low_pct": 3.74,
+          "amount_yi": 33.25
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_600500_intraday.csv",
+      "intraday_source_url": "http://push2.eastmoney.com/api/qt/stock/trends2/get?secid=1.600500&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": "http://push2.eastmoney.com/api/qt/stock/kline/get?secid=1.600500&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260609&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "https://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=1.600500&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 7.93,
+        "open": 7.9,
+        "high": 7.93,
+        "low": 7.48,
+        "prev_close": 7.21,
+        "change": 0.72,
+        "pct_chg": 9.99,
+        "turnover_rate": 16.1,
+        "amount": 4566952691.0,
+        "market_value": 28455268982.789997,
+        "eastmoney_name": "中化国际"
+      }
+    },
+    {
+      "group": "六氟化钨核心",
+      "name": "中船特气",
+      "code": "688146",
+      "note": "六氟化钨核心",
+      "secid": "1.688146",
+      "eastmoney_name": "中船特气",
+      "prev_close": 349.8,
+      "daily": {},
+      "intraday_summary": {
+        "minute_count": 241,
+        "open_0930": 327.0,
+        "open_pct": -6.52,
+        "close": 302.0,
+        "close_pct": -13.66,
+        "high": 336.93,
+        "high_time": "09:51",
+        "high_pct": -3.68,
+        "low": 279.88,
+        "low_time": "13:56",
+        "low_pct": -19.99,
+        "amount_yi": 87.86,
+        "volume_lot": 284426.0,
+        "before_1000": {
+          "last_time": "10:00",
+          "last_price": 321.54,
+          "last_pct": -8.08,
+          "high": 336.93,
+          "high_time": "09:51",
+          "high_pct": -3.68,
+          "low": 296.61,
+          "low_time": "09:33",
+          "low_pct": -15.21,
+          "amount_yi": 32.89
+        },
+        "before_1030": {
+          "last_time": "10:30",
+          "last_price": 315.08,
+          "last_pct": -9.93,
+          "high": 336.93,
+          "high_time": "09:51",
+          "high_pct": -3.68,
+          "low": 296.61,
+          "low_time": "09:33",
+          "low_pct": -15.21,
+          "amount_yi": 39.67
+        }
+      },
+      "intraday_csv": "D:\\project\\way_to_10000000\\intraday_20260612_watch_pool\\20260612_688146_intraday.csv",
+      "intraday_source_url": "http://push2.eastmoney.com/api/qt/stock/trends2/get?secid=1.688146&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_source_url": "http://push2.eastmoney.com/api/qt/stock/kline/get?secid=1.688146&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260609&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "daily_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "https://push2.eastmoney.com/api/qt/stock/kline/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "intraday_errors": [
+        "https://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response",
+        "http://push2his.eastmoney.com/api/qt/stock/trends2/get: RuntimeError: RemoteDisconnected: Remote end closed connection without response"
+      ],
+      "quote": {
+        "source_url": "https://16.push2.eastmoney.com/api/qt/stock/get?secid=1.688146&fields=f43%2Cf44%2Cf45%2Cf46%2Cf47%2Cf48%2Cf57%2Cf58%2Cf60%2Cf168%2Cf169%2Cf170%2Cf116%2Cf117&ut=fa5fd1943c7b386f172d6893dbfba10b",
+        "latest": 302.0,
+        "open": 327.0,
+        "high": 336.93,
+        "low": 279.88,
+        "prev_close": 349.8,
+        "change": -47.8,
+        "pct_chg": -13.66,
+        "turnover_rate": 19.62,
+        "amount": 8786424759.0,
+        "market_value": 159882353030.0,
+        "eastmoney_name": "中船特气"
+      }
+    }
+  ]
+}

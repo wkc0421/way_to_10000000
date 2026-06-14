@@ -1,0 +1,354 @@
+{
+  "大有能源": {
+    "code": "600403",
+    "ok": true,
+    "source": "sina_fallback",
+    "url": "https://money.finance.sina.com.cn/quotes_service/api/json_v2.php/CN_MarketData.getKLineData?symbol=sh600403&scale=240&ma=no&datalen=20",
+    "rows": [
+      {
+        "date": "2026-06-09",
+        "open": 8.06,
+        "close": 8.06,
+        "high": 8.58,
+        "low": 8.06,
+        "volume": 174737397.0,
+        "pct_chg": -9.9441
+      },
+      {
+        "date": "2026-06-10",
+        "open": 7.8,
+        "close": 7.65,
+        "high": 8.68,
+        "low": 7.58,
+        "volume": 191181140.0,
+        "pct_chg": -5.0868
+      },
+      {
+        "date": "2026-06-11",
+        "open": 7.8,
+        "close": 8.05,
+        "high": 8.42,
+        "low": 7.8,
+        "volume": 200190231.0,
+        "pct_chg": 5.2288
+      },
+      {
+        "date": "2026-06-12",
+        "open": 7.25,
+        "close": 7.25,
+        "high": 7.45,
+        "low": 7.25,
+        "volume": 94133900.0,
+        "pct_chg": -9.9379
+      }
+    ]
+  },
+  "金安国纪": {
+    "code": "002636",
+    "ok": true,
+    "source": "sina_fallback",
+    "url": "https://money.finance.sina.com.cn/quotes_service/api/json_v2.php/CN_MarketData.getKLineData?symbol=sz002636&scale=240&ma=no&datalen=20",
+    "rows": [
+      {
+        "date": "2026-06-09",
+        "open": 70.38,
+        "close": 70.38,
+        "high": 70.38,
+        "low": 68.4,
+        "volume": 14350894.0,
+        "pct_chg": 10.0031
+      },
+      {
+        "date": "2026-06-10",
+        "open": 76.0,
+        "close": 77.42,
+        "high": 77.42,
+        "low": 74.46,
+        "volume": 38421038.0,
+        "pct_chg": 10.0028
+      },
+      {
+        "date": "2026-06-11",
+        "open": 77.44,
+        "close": 84.8,
+        "high": 85.16,
+        "low": 77.44,
+        "volume": 91735995.0,
+        "pct_chg": 9.5324
+      },
+      {
+        "date": "2026-06-12",
+        "open": 89.99,
+        "close": 89.88,
+        "high": 93.28,
+        "low": 86.92,
+        "volume": 84377190.0,
+        "pct_chg": 5.9906
+      }
+    ]
+  },
+  "宿迁联盛": {
+    "code": "603065",
+    "ok": true,
+    "source": "sina_fallback",
+    "url": "https://money.finance.sina.com.cn/quotes_service/api/json_v2.php/CN_MarketData.getKLineData?symbol=sh603065&scale=240&ma=no&datalen=20",
+    "rows": [
+      {
+        "date": "2026-06-09",
+        "open": 10.4,
+        "close": 10.4,
+        "high": 10.4,
+        "low": 10.4,
+        "volume": 5467400.0,
+        "pct_chg": 10.0529
+      },
+      {
+        "date": "2026-06-10",
+        "open": 11.44,
+        "close": 11.44,
+        "high": 11.44,
+        "low": 11.44,
+        "volume": 3674275.0,
+        "pct_chg": 10.0
+      },
+      {
+        "date": "2026-06-11",
+        "open": 12.36,
+        "close": 12.36,
+        "high": 12.36,
+        "low": 12.36,
+        "volume": 12852225.0,
+        "pct_chg": 8.042
+      },
+      {
+        "date": "2026-06-12",
+        "open": 13.6,
+        "close": 13.6,
+        "high": 13.6,
+        "low": 13.6,
+        "volume": 9863708.0,
+        "pct_chg": 10.0324
+      }
+    ]
+  },
+  "和远气体": {
+    "code": "002971",
+    "ok": true,
+    "source": "sina_fallback",
+    "url": "https://money.finance.sina.com.cn/quotes_service/api/json_v2.php/CN_MarketData.getKLineData?symbol=sz002971&scale=240&ma=no&datalen=20",
+    "rows": [
+      {
+        "date": "2026-06-09",
+        "open": 40.95,
+        "close": 43.59,
+        "high": 43.59,
+        "low": 40.41,
+        "volume": 33288630.0,
+        "pct_chg": 9.9924
+      },
+      {
+        "date": "2026-06-10",
+        "open": 47.95,
+        "close": 47.95,
+        "high": 47.95,
+        "low": 47.94,
+        "volume": 7434232.0,
+        "pct_chg": 10.0023
+      },
+      {
+        "date": "2026-06-11",
+        "open": 52.75,
+        "close": 52.75,
+        "high": 52.75,
+        "low": 49.04,
+        "volume": 23799188.0,
+        "pct_chg": 10.0104
+      },
+      {
+        "date": "2026-06-12",
+        "open": 55.0,
+        "close": 58.03,
+        "high": 58.03,
+        "low": 54.4,
+        "volume": 57769076.0,
+        "pct_chg": 10.0095
+      }
+    ]
+  },
+  "中化国际": {
+    "code": "600500",
+    "ok": true,
+    "source": "sina_fallback",
+    "url": "https://money.finance.sina.com.cn/quotes_service/api/json_v2.php/CN_MarketData.getKLineData?symbol=sh600500&scale=240&ma=no&datalen=20",
+    "rows": [
+      {
+        "date": "2026-06-09",
+        "open": 5.85,
+        "close": 5.95,
+        "high": 5.95,
+        "low": 5.85,
+        "volume": 40641743.0,
+        "pct_chg": 9.9815
+      },
+      {
+        "date": "2026-06-10",
+        "open": 6.55,
+        "close": 6.55,
+        "high": 6.55,
+        "low": 6.55,
+        "volume": 31438840.0,
+        "pct_chg": 10.084
+      },
+      {
+        "date": "2026-06-11",
+        "open": 7.21,
+        "close": 7.21,
+        "high": 7.21,
+        "low": 7.21,
+        "volume": 38887009.0,
+        "pct_chg": 10.0763
+      },
+      {
+        "date": "2026-06-12",
+        "open": 7.9,
+        "close": 7.93,
+        "high": 7.93,
+        "low": 7.48,
+        "volume": 577793209.0,
+        "pct_chg": 9.9861
+      }
+    ]
+  },
+  "宗申动力": {
+    "code": "001696",
+    "ok": true,
+    "source": "sina_fallback",
+    "url": "https://money.finance.sina.com.cn/quotes_service/api/json_v2.php/CN_MarketData.getKLineData?symbol=sz001696&scale=240&ma=no&datalen=20",
+    "rows": [
+      {
+        "date": "2026-06-09",
+        "open": 16.21,
+        "close": 17.55,
+        "high": 17.55,
+        "low": 16.0,
+        "volume": 69342502.0,
+        "pct_chg": 10.0313
+      },
+      {
+        "date": "2026-06-10",
+        "open": 18.01,
+        "close": 19.05,
+        "high": 19.31,
+        "low": 17.8,
+        "volume": 180835133.0,
+        "pct_chg": 8.547
+      },
+      {
+        "date": "2026-06-11",
+        "open": 19.0,
+        "close": 20.96,
+        "high": 20.96,
+        "low": 18.87,
+        "volume": 146819703.0,
+        "pct_chg": 10.0262
+      },
+      {
+        "date": "2026-06-12",
+        "open": 21.31,
+        "close": 22.84,
+        "high": 22.84,
+        "low": 21.24,
+        "volume": 93672540.0,
+        "pct_chg": 8.9695
+      }
+    ]
+  },
+  "爱普股份": {
+    "code": "603020",
+    "ok": true,
+    "source": "sina_fallback",
+    "url": "https://money.finance.sina.com.cn/quotes_service/api/json_v2.php/CN_MarketData.getKLineData?symbol=sh603020&scale=240&ma=no&datalen=20",
+    "rows": [
+      {
+        "date": "2026-06-09",
+        "open": 10.69,
+        "close": 11.64,
+        "high": 11.64,
+        "low": 10.69,
+        "volume": 19301200.0,
+        "pct_chg": 10.0189
+      },
+      {
+        "date": "2026-06-10",
+        "open": 11.65,
+        "close": 11.97,
+        "high": 12.14,
+        "low": 11.52,
+        "volume": 19020100.0,
+        "pct_chg": 2.8351
+      },
+      {
+        "date": "2026-06-11",
+        "open": 11.64,
+        "close": 11.85,
+        "high": 12.09,
+        "low": 11.58,
+        "volume": 14519100.0,
+        "pct_chg": -1.0025
+      },
+      {
+        "date": "2026-06-12",
+        "open": 11.98,
+        "close": 13.04,
+        "high": 13.04,
+        "low": 11.88,
+        "volume": 23846830.0,
+        "pct_chg": 10.0422
+      }
+    ]
+  },
+  "深桑达A": {
+    "code": "000032",
+    "ok": true,
+    "source": "sina_fallback",
+    "url": "https://money.finance.sina.com.cn/quotes_service/api/json_v2.php/CN_MarketData.getKLineData?symbol=sz000032&scale=240&ma=no&datalen=20",
+    "rows": [
+      {
+        "date": "2026-06-09",
+        "open": 15.33,
+        "close": 15.54,
+        "high": 15.65,
+        "low": 15.15,
+        "volume": 14586998.0,
+        "pct_chg": 2.9139
+      },
+      {
+        "date": "2026-06-10",
+        "open": 15.43,
+        "close": 15.64,
+        "high": 16.54,
+        "low": 15.35,
+        "volume": 22551796.0,
+        "pct_chg": 0.6435
+      },
+      {
+        "date": "2026-06-11",
+        "open": 15.8,
+        "close": 17.2,
+        "high": 17.2,
+        "low": 15.46,
+        "volume": 36421092.0,
+        "pct_chg": 9.9744
+      },
+      {
+        "date": "2026-06-12",
+        "open": 17.4,
+        "close": 18.92,
+        "high": 18.92,
+        "low": 16.6,
+        "volume": 105555592.0,
+        "pct_chg": 10.0
+      }
+    ]
+  }
+}

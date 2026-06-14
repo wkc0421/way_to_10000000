@@ -1,0 +1,1121 @@
+{
+  "review_date": "20260612",
+  "source": "Tonghuashun limit_up dataapi; Eastmoney health check",
+  "ths_source_urls": {
+    "limit_up_pool": "https://data.10jqka.com.cn/dataapi/limit_up/limit_up_pool?page=1&limit=100&field=199112%2C10%2C9001%2C330323%2C330324%2C330325%2C9002%2C330329%2C133971%2C133970%2C1968584%2C3475914%2C9003%2C9004&filter=HS%2CGEM2STAR&order_field=330324&order_type=0&date=20260612&_=1781272831099",
+    "open_limit_pool": "https://data.10jqka.com.cn/dataapi/limit_up/open_limit_pool?page=1&limit=100&field=199112%2C9002%2C48%2C1968584%2C19%2C3475914%2C9003%2C10%2C9004&filter=HS%2CGEM2STAR&order_field=199112&order_type=0&date=20260612&_=1781272831694",
+    "lower_limit_pool": "https://data.10jqka.com.cn/dataapi/limit_up/lower_limit_pool?page=1&limit=100&field=199112%2C10%2C330333%2C330334%2C1968584%2C3475914%2C9004&filter=HS%2CGEM2STAR&order_field=330334&order_type=0&date=20260612&_=1781272832381"
+  },
+  "exports": {
+    "csv": "D:\\project\\way_to_10000000\\limit_pools_20260612.csv",
+    "raw_json": "D:\\project\\way_to_10000000\\source_check_20260612.json",
+    "index_json": "D:\\project\\way_to_10000000\\index_20260612.json",
+    "breadth_json": "D:\\project\\way_to_10000000\\breadth_20260612.json"
+  },
+  "counts": {
+    "limit_up": 88,
+    "open_limit": 61,
+    "lower_limit": 15,
+    "seal_rate_pct": 59.06
+  },
+  "height_dist": {
+    "首板": 73,
+    "2天2板": 7,
+    "7天5板": 1,
+    "6天3板": 1,
+    "3天2板": 2,
+    "5天4板": 1,
+    "4天2板": 2,
+    "4天4板": 1
+  },
+  "leaders": [
+    {
+      "code": "002971",
+      "name": "和远气体",
+      "height": "7天5板",
+      "reason": "六氟化钨+电子特气+硅基功能性新材料",
+      "turnover_rate": 36.9364,
+      "open_num": 84,
+      "first": "09:31:09",
+      "last": "14:51:33"
+    },
+    {
+      "code": "001696",
+      "name": "宗申动力",
+      "height": "5天4板",
+      "reason": "低空经济+航空发动机+资产置换+分红",
+      "turnover_rate": 10.5085,
+      "open_num": 1,
+      "first": "09:53:33",
+      "last": "09:55:21"
+    },
+    {
+      "code": "603065",
+      "name": "宿迁联盛",
+      "height": "4天4板",
+      "reason": "跨界磷化铟衬底+光稳定剂",
+      "turnover_rate": 2.3543,
+      "open_num": null,
+      "first": "09:25:01",
+      "last": "09:25:01"
+    },
+    {
+      "code": "603020",
+      "name": "爱普股份",
+      "height": "6天3板",
+      "reason": "香精香料+鱼油+收购进展+一季报增长",
+      "turnover_rate": 6.3484,
+      "open_num": 5,
+      "first": "11:24:31",
+      "last": "13:57:07"
+    },
+    {
+      "code": "002976",
+      "name": "瑞玛精密",
+      "height": "4天2板",
+      "reason": "光通信散热布局+5G+空气悬架+特斯拉产业链",
+      "turnover_rate": 6.1712,
+      "open_num": 1,
+      "first": "09:32:09",
+      "last": "09:34:36"
+    },
+    {
+      "code": "603335",
+      "name": "迪生力",
+      "height": "4天2板",
+      "reason": "收购半导体+汽车轮毂+股份转让",
+      "turnover_rate": 1.2681,
+      "open_num": null,
+      "first": "09:25:02",
+      "last": "09:25:02"
+    },
+    {
+      "code": "002830",
+      "name": "名雕股份",
+      "height": "3天2板",
+      "reason": "家装龙头+成立AI公司+高送转",
+      "turnover_rate": 6.6931,
+      "open_num": null,
+      "first": "09:35:39",
+      "last": "09:35:39"
+    },
+    {
+      "code": "600229",
+      "name": "城市传媒",
+      "height": "3天2板",
+      "reason": "IP运营+版权开发+AI应用+国企",
+      "turnover_rate": 5.1568,
+      "open_num": null,
+      "first": "10:12:01",
+      "last": "10:12:01"
+    },
+    {
+      "code": "600067",
+      "name": "冠城新材",
+      "height": "2天2板",
+      "reason": "机器人概念+电磁线+一季报增长",
+      "turnover_rate": 8.1429,
+      "open_num": null,
+      "first": "10:22:56",
+      "last": "10:22:56"
+    },
+    {
+      "code": "000032",
+      "name": "深桑达A",
+      "height": "2天2板",
+      "reason": "半导体洁净室+中国电子云增资+AI算力",
+      "turnover_rate": 9.2759,
+      "open_num": 74,
+      "first": "13:17:57",
+      "last": "15:00:00"
+    },
+    {
+      "code": "601958",
+      "name": "金钼股份",
+      "height": "2天2板",
+      "reason": "钼基新材+存储芯片材料+陕西国资",
+      "turnover_rate": 0.5052,
+      "open_num": null,
+      "first": "09:25:02",
+      "last": "09:25:02"
+    },
+    {
+      "code": "603014",
+      "name": "威高血净",
+      "height": "2天2板",
+      "reason": "并购重组+血液净化+医药包材",
+      "turnover_rate": 8.9032,
+      "open_num": 7,
+      "first": "10:35:12",
+      "last": "10:55:51"
+    },
+    {
+      "code": "002203",
+      "name": "海亮股份",
+      "height": "2天2板",
+      "reason": "铜箔+微通道冷板+固态电池+一季报增长",
+      "turnover_rate": 4.635,
+      "open_num": 3,
+      "first": "09:30:03",
+      "last": "09:43:21"
+    },
+    {
+      "code": "000510",
+      "name": "新金路",
+      "height": "2天2板",
+      "reason": "石英砂+锡钨钽+氯碱化工+减持终止",
+      "turnover_rate": 11.988,
+      "open_num": 1,
+      "first": "10:32:15",
+      "last": "14:27:33"
+    },
+    {
+      "code": "001257",
+      "name": "盛龙股份",
+      "height": "2天2板",
+      "reason": "钼替代钨+钼业龙头+洛阳国资",
+      "turnover_rate": 10.4423,
+      "open_num": null,
+      "first": "09:30:00",
+      "last": "09:30:00"
+    },
+    {
+      "code": "688163",
+      "name": "赛伦生物",
+      "height": "首板",
+      "reason": "抗蛇毒血清+独家品种",
+      "turnover_rate": 5.1089,
+      "open_num": 1,
+      "first": "14:32:49",
+      "last": "14:55:43"
+    },
+    {
+      "code": "301323",
+      "name": "新莱福",
+      "height": "首板",
+      "reason": "重组并购+钐铁氮+芯片电感",
+      "turnover_rate": 10.5831,
+      "open_num": 2,
+      "first": "10:43:09",
+      "last": "14:49:24"
+    },
+    {
+      "code": "300377",
+      "name": "赢时胜",
+      "height": "首板",
+      "reason": "金融科技+AI应用+信创+资产托管",
+      "turnover_rate": 12.4255,
+      "open_num": 2,
+      "first": "10:52:12",
+      "last": "14:36:54"
+    },
+    {
+      "code": "301176",
+      "name": "逸豪新材",
+      "height": "首板",
+      "reason": "PCB铜箔+AI算力+产能扩张",
+      "turnover_rate": 9.3747,
+      "open_num": 10,
+      "first": "10:23:42",
+      "last": "14:50:18"
+    },
+    {
+      "code": "688010",
+      "name": "福光股份",
+      "height": "首板",
+      "reason": "商业航天+特种光学镜头+增持",
+      "turnover_rate": 14.7877,
+      "open_num": 36,
+      "first": "10:34:39",
+      "last": "14:09:00"
+    }
+  ],
+  "hard_boards": [
+    {
+      "code": "000768",
+      "name": "中航西飞",
+      "height": "首板",
+      "reason": "电子特气项目启动+C919大飞机+分红+央企",
+      "open_num": null,
+      "first": "09:25:00"
+    },
+    {
+      "code": "603065",
+      "name": "宿迁联盛",
+      "height": "4天4板",
+      "reason": "跨界磷化铟衬底+光稳定剂",
+      "open_num": null,
+      "first": "09:25:01"
+    },
+    {
+      "code": "603335",
+      "name": "迪生力",
+      "height": "4天2板",
+      "reason": "收购半导体+汽车轮毂+股份转让",
+      "open_num": null,
+      "first": "09:25:02"
+    },
+    {
+      "code": "601958",
+      "name": "金钼股份",
+      "height": "2天2板",
+      "reason": "钼基新材+存储芯片材料+陕西国资",
+      "open_num": null,
+      "first": "09:25:02"
+    },
+    {
+      "code": "001257",
+      "name": "盛龙股份",
+      "height": "2天2板",
+      "reason": "钼替代钨+钼业龙头+洛阳国资",
+      "open_num": null,
+      "first": "09:30:00"
+    },
+    {
+      "code": "603738",
+      "name": "泰晶科技",
+      "height": "首板",
+      "reason": "光模块晶振+高频晶振+人形机器人",
+      "open_num": null,
+      "first": "09:31:10"
+    },
+    {
+      "code": "002927",
+      "name": "泰永长征",
+      "height": "首板",
+      "reason": "固态断路器+AIDC+数据中心应用",
+      "open_num": null,
+      "first": "09:31:39"
+    },
+    {
+      "code": "301348",
+      "name": "蓝箭电子",
+      "height": "首板",
+      "reason": "拟收购芯翼+半导体封测+存储芯片",
+      "open_num": null,
+      "first": "09:31:57"
+    },
+    {
+      "code": "002742",
+      "name": "冀衡医药",
+      "height": "首板",
+      "reason": "更名+资产注入+原料药",
+      "open_num": null,
+      "first": "09:32:24"
+    },
+    {
+      "code": "002830",
+      "name": "名雕股份",
+      "height": "3天2板",
+      "reason": "家装龙头+成立AI公司+高送转",
+      "open_num": null,
+      "first": "09:35:39"
+    },
+    {
+      "code": "605198",
+      "name": "安德利",
+      "height": "首板",
+      "reason": "浓缩果汁龙头+H股回购+产能并购整合",
+      "open_num": null,
+      "first": "09:37:39"
+    },
+    {
+      "code": "002935",
+      "name": "天奥电子",
+      "height": "首板",
+      "reason": "商业航天+原子钟+央企",
+      "open_num": null,
+      "first": "09:39:51"
+    },
+    {
+      "code": "003009",
+      "name": "中天火箭",
+      "height": "首板",
+      "reason": "商业航天+小型制导火箭+一季度扭亏+央企",
+      "open_num": null,
+      "first": "09:43:36"
+    },
+    {
+      "code": "600391",
+      "name": "航发科技",
+      "height": "首板",
+      "reason": "长江发动机+燃气轮机+外贸订单+央企",
+      "open_num": null,
+      "first": "09:43:49"
+    },
+    {
+      "code": "300581",
+      "name": "晨曦航空",
+      "height": "首板",
+      "reason": "军工装备+航空发动机+一季报增长",
+      "open_num": null,
+      "first": "09:43:57"
+    }
+  ],
+  "weak_sealed": [
+    {
+      "code": "002971",
+      "name": "和远气体",
+      "height": "7天5板",
+      "reason": "六氟化钨+电子特气+硅基功能性新材料",
+      "open_num": 84,
+      "turnover_rate": 36.9364
+    },
+    {
+      "code": "000032",
+      "name": "深桑达A",
+      "height": "2天2板",
+      "reason": "半导体洁净室+中国电子云增资+AI算力",
+      "open_num": 74,
+      "turnover_rate": 9.2759
+    },
+    {
+      "code": "600906",
+      "name": "财达证券",
+      "height": "首板",
+      "reason": "券商+河北国资+一季报增长",
+      "open_num": 46,
+      "turnover_rate": 7.6999
+    },
+    {
+      "code": "002597",
+      "name": "金禾实业",
+      "height": "首板",
+      "reason": "甜味剂+双氯磺酰亚胺酸+固态电池+增持完成",
+      "open_num": 45,
+      "turnover_rate": 3.6114
+    },
+    {
+      "code": "603120",
+      "name": "肯特催化",
+      "height": "首板",
+      "reason": "半导体清洗+催化新材料+专精特新",
+      "open_num": 39,
+      "turnover_rate": 26.5921
+    },
+    {
+      "code": "688010",
+      "name": "福光股份",
+      "height": "首板",
+      "reason": "商业航天+特种光学镜头+增持",
+      "open_num": 36,
+      "turnover_rate": 14.7877
+    },
+    {
+      "code": "603519",
+      "name": "立霸股份",
+      "height": "首板",
+      "reason": "股权转让+第三代半导体+家电复合材料+高股息",
+      "open_num": 31,
+      "turnover_rate": 7.5038
+    },
+    {
+      "code": "600576",
+      "name": "祥源文旅",
+      "height": "首板",
+      "reason": "旅游主业+低空文旅",
+      "open_num": 29,
+      "turnover_rate": 6.5853
+    },
+    {
+      "code": "001359",
+      "name": "平安电工",
+      "height": "首板",
+      "reason": "电子布+云母绝缘+固态电池",
+      "open_num": 21,
+      "turnover_rate": 12.3815
+    },
+    {
+      "code": "600601",
+      "name": "方正科技",
+      "height": "首板",
+      "reason": "AI算力PCB+光模块+珠海国资",
+      "open_num": 16,
+      "turnover_rate": 8.876
+    }
+  ],
+  "open_top_by_turnover": [
+    {
+      "code": "002636",
+      "name": "金安国纪",
+      "change_rate": 5.9906,
+      "turnover_rate": 11.6492,
+      "open_num": 1,
+      "turnover_yi": 75.8,
+      "rise_rate": 1.445
+    },
+    {
+      "code": "600869",
+      "name": "远东股份",
+      "change_rate": 9.9322,
+      "turnover_rate": 10.9311,
+      "open_num": 10,
+      "turnover_yi": 75.79,
+      "rise_rate": 1.06
+    },
+    {
+      "code": "603083",
+      "name": "剑桥科技",
+      "change_rate": 6.9617,
+      "turnover_rate": 13.8858,
+      "open_num": 3,
+      "turnover_yi": 70.36,
+      "rise_rate": 0.0
+    },
+    {
+      "code": "002129",
+      "name": "TCL中环",
+      "change_rate": -1.4808,
+      "turnover_rate": 12.6849,
+      "open_num": 1,
+      "turnover_yi": 54.14,
+      "rise_rate": 0.0
+    },
+    {
+      "code": "000960",
+      "name": "锡业股份",
+      "change_rate": 8.0034,
+      "turnover_rate": 8.4523,
+      "open_num": 13,
+      "turnover_yi": 52.01,
+      "rise_rate": 0.346
+    },
+    {
+      "code": "000831",
+      "name": "中国稀土",
+      "change_rate": 4.1829,
+      "turnover_rate": 8.2601,
+      "open_num": 1,
+      "turnover_yi": 49.61,
+      "rise_rate": 0.071
+    },
+    {
+      "code": "603629",
+      "name": "利通电子",
+      "change_rate": 9.2247,
+      "turnover_rate": 12.9725,
+      "open_num": 1,
+      "turnover_yi": 49.54,
+      "rise_rate": -0.354
+    },
+    {
+      "code": "002119",
+      "name": "康强电子",
+      "change_rate": 2.4359,
+      "turnover_rate": 38.3512,
+      "open_num": 1,
+      "turnover_yi": 47.46,
+      "rise_rate": 0.031
+    },
+    {
+      "code": "600500",
+      "name": "中化国际",
+      "change_rate": 9.9861,
+      "turnover_rate": 16.1021,
+      "open_num": 101,
+      "turnover_yi": 45.67,
+      "rise_rate": 0.0
+    },
+    {
+      "code": "600362",
+      "name": "江西铜业",
+      "change_rate": 7.2496,
+      "turnover_rate": 4.4056,
+      "open_num": 3,
+      "turnover_yi": 39.22,
+      "rise_rate": 0.046
+    },
+    {
+      "code": "600711",
+      "name": "盛屯矿业",
+      "change_rate": 9.8901,
+      "turnover_rate": 9.7944,
+      "open_num": 5,
+      "turnover_yi": 38.7,
+      "rise_rate": 0.697
+    },
+    {
+      "code": "600141",
+      "name": "兴发集团",
+      "change_rate": 4.3385,
+      "turnover_rate": 9.2782,
+      "open_num": 1,
+      "turnover_yi": 38.67,
+      "rise_rate": 0.029
+    },
+    {
+      "code": "603186",
+      "name": "华正新材",
+      "change_rate": -0.047,
+      "turnover_rate": 13.5306,
+      "open_num": 1,
+      "turnover_yi": 37.91,
+      "rise_rate": -0.047
+    },
+    {
+      "code": "600110",
+      "name": "诺德股份",
+      "change_rate": 5.892,
+      "turnover_rate": 16.1266,
+      "open_num": 1,
+      "turnover_yi": 36.28,
+      "rise_rate": 0.0
+    },
+    {
+      "code": "600172",
+      "name": "黄河旋风",
+      "change_rate": 0.0846,
+      "turnover_rate": 21.4328,
+      "open_num": 2,
+      "turnover_yi": 33.85,
+      "rise_rate": 0.085
+    }
+  ],
+  "lower_limit": [
+    {
+      "code": "603657",
+      "name": "春光科技",
+      "change_rate": -10.0078,
+      "turnover_rate": 5.4662,
+      "first": "13:02:52",
+      "last": "15:00:00"
+    },
+    {
+      "code": "000833",
+      "name": "粤桂股份",
+      "change_rate": -10.0075,
+      "turnover_rate": 19.5193,
+      "first": "09:37:42",
+      "last": "15:00:00"
+    },
+    {
+      "code": "600536",
+      "name": "中国软件",
+      "change_rate": -9.9909,
+      "turnover_rate": 4.4849,
+      "first": "14:39:00",
+      "last": "14:41:24"
+    },
+    {
+      "code": "603103",
+      "name": "横店影视",
+      "change_rate": -9.9952,
+      "turnover_rate": 3.8449,
+      "first": "09:35:11",
+      "last": "14:37:05"
+    },
+    {
+      "code": "603211",
+      "name": "晋拓股份",
+      "change_rate": -10.003,
+      "turnover_rate": 6.2134,
+      "first": "14:04:36",
+      "last": "14:34:30"
+    },
+    {
+      "code": "603938",
+      "name": "三孚股份",
+      "change_rate": -10.0051,
+      "turnover_rate": 10.6852,
+      "first": "13:03:31",
+      "last": "14:25:37"
+    },
+    {
+      "code": "002669",
+      "name": "康达新材",
+      "change_rate": -9.9884,
+      "turnover_rate": 21.4744,
+      "first": "14:05:30",
+      "last": "14:15:24"
+    },
+    {
+      "code": "603931",
+      "name": "格林达",
+      "change_rate": -9.9983,
+      "turnover_rate": 7.7965,
+      "first": "14:13:02",
+      "last": "14:13:02"
+    },
+    {
+      "code": "002421",
+      "name": "达实智能",
+      "change_rate": -10.0204,
+      "turnover_rate": 33.1612,
+      "first": "09:25:00",
+      "last": "13:58:00"
+    },
+    {
+      "code": "603078",
+      "name": "江化微",
+      "change_rate": -10.0086,
+      "turnover_rate": 13.5399,
+      "first": "13:53:08",
+      "last": "13:54:11"
+    },
+    {
+      "code": "603155",
+      "name": "新亚强",
+      "change_rate": -9.992,
+      "turnover_rate": 9.8564,
+      "first": "10:52:02",
+      "last": "13:24:29"
+    },
+    {
+      "code": "600403",
+      "name": "大有能源",
+      "change_rate": -9.9379,
+      "turnover_rate": 3.9373,
+      "first": "09:25:03",
+      "last": "13:18:00"
+    },
+    {
+      "code": "600378",
+      "name": "昊华科技",
+      "change_rate": -10.0,
+      "turnover_rate": 10.5428,
+      "first": "10:27:37",
+      "last": "11:02:58"
+    },
+    {
+      "code": "002962",
+      "name": "五方光电",
+      "change_rate": -9.9896,
+      "turnover_rate": 8.8466,
+      "first": "09:36:09",
+      "last": "09:36:09"
+    },
+    {
+      "code": "600791",
+      "name": "京能置业",
+      "change_rate": -10.0074,
+      "turnover_rate": 2.1135,
+      "first": "09:25:04",
+      "last": "09:32:13"
+    }
+  ],
+  "blocks": [
+    {
+      "name": "锂电池概念",
+      "change": 1.33,
+      "limit_up_num": 21,
+      "continuous_plate_num": 5,
+      "high": "5天4板"
+    },
+    {
+      "name": "专精特新",
+      "change": 0.6217,
+      "limit_up_num": 20,
+      "continuous_plate_num": 4,
+      "high": "7天5板"
+    },
+    {
+      "name": "西部大开发",
+      "change": 1.5625,
+      "limit_up_num": 18,
+      "continuous_plate_num": 3,
+      "high": "5天4板"
+    },
+    {
+      "name": "军工",
+      "change": 1.4068,
+      "limit_up_num": 18,
+      "continuous_plate_num": 2,
+      "high": "5天4板"
+    },
+    {
+      "name": "无人机",
+      "change": 1.472,
+      "limit_up_num": 17,
+      "continuous_plate_num": 2,
+      "high": "5天4板"
+    },
+    {
+      "name": "一带一路",
+      "change": 1.3461,
+      "limit_up_num": 17,
+      "continuous_plate_num": 2,
+      "high": "4天2板"
+    },
+    {
+      "name": "新能源汽车",
+      "change": 0.6394,
+      "limit_up_num": 16,
+      "continuous_plate_num": 4,
+      "high": "5天4板"
+    },
+    {
+      "name": "小金属概念",
+      "change": 3.2415,
+      "limit_up_num": 15,
+      "continuous_plate_num": 4,
+      "high": "2天2板"
+    },
+    {
+      "name": "央企国企改革",
+      "change": 1.7935,
+      "limit_up_num": 14,
+      "continuous_plate_num": 1,
+      "high": "2天2板"
+    },
+    {
+      "name": "低空经济",
+      "change": 1.4542,
+      "limit_up_num": 14,
+      "continuous_plate_num": 2,
+      "high": "5天4板"
+    },
+    {
+      "name": "芯片概念",
+      "change": -0.5285,
+      "limit_up_num": 14,
+      "continuous_plate_num": 3,
+      "high": "7天5板"
+    },
+    {
+      "name": "商业航天",
+      "change": 0.8827,
+      "limit_up_num": 13,
+      "continuous_plate_num": 2,
+      "high": "5天4板"
+    },
+    {
+      "name": "华为概念",
+      "change": 0.5913,
+      "limit_up_num": 13,
+      "continuous_plate_num": 2,
+      "high": "3天2板"
+    },
+    {
+      "name": "比亚迪概念",
+      "change": 0.552,
+      "limit_up_num": 13,
+      "continuous_plate_num": 3,
+      "high": "5天4板"
+    },
+    {
+      "name": "黄金概念",
+      "change": 4.4913,
+      "limit_up_num": 12,
+      "continuous_plate_num": 0,
+      "high": "首板"
+    },
+    {
+      "name": "金属铜",
+      "change": 4.3723,
+      "limit_up_num": 12,
+      "continuous_plate_num": 3,
+      "high": "2天2板"
+    },
+    {
+      "name": "股权转让(并购重组)",
+      "change": 1.035,
+      "limit_up_num": 12,
+      "continuous_plate_num": 2,
+      "high": "2天2板"
+    },
+    {
+      "name": "机器人概念",
+      "change": 0.732,
+      "limit_up_num": 12,
+      "continuous_plate_num": 2,
+      "high": "5天4板"
+    },
+    {
+      "name": "储能",
+      "change": 0.9085,
+      "limit_up_num": 11,
+      "continuous_plate_num": 3,
+      "high": "5天4板"
+    },
+    {
+      "name": "工业金属",
+      "change": 5.2833,
+      "limit_up_num": 10,
+      "continuous_plate_num": 1,
+      "high": "2天2板"
+    }
+  ],
+  "trade_status": {
+    "id": "closed",
+    "name": "已收盘",
+    "start_time": "15:30",
+    "end_time": "23:59:59.999999999"
+  },
+  "indices": {
+    "SSE Composite": {
+      "ok": true,
+      "name": "上证指数",
+      "secid": "1.000001",
+      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.000001&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260601&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "date": "2026-06-12",
+      "open": 4017.86,
+      "close": 4031.51,
+      "high": 4060.27,
+      "low": 4008.18,
+      "volume": 743131092.0,
+      "amount": 1537401519424.7,
+      "amplitude": 1.31,
+      "pct_chg": 1.12,
+      "chg": 44.5
+    },
+    "SZSE Component": {
+      "ok": true,
+      "name": "深证成指",
+      "secid": "0.399001",
+      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.399001&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260601&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "date": "2026-06-12",
+      "open": 15149.52,
+      "close": 14963.41,
+      "high": 15171.22,
+      "low": 14943.43,
+      "volume": 792336423.0,
+      "amount": 1677548225901.93,
+      "amplitude": 1.53,
+      "pct_chg": 0.75,
+      "chg": 111.43
+    },
+    "ChiNext": {
+      "ok": true,
+      "name": "创业板指",
+      "secid": "0.399006",
+      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.399006&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260601&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "date": "2026-06-12",
+      "open": 3921.09,
+      "close": 3830.35,
+      "high": 3921.53,
+      "low": 3822.42,
+      "volume": 237871527.0,
+      "amount": 811000641594.19,
+      "amplitude": 2.6,
+      "pct_chg": 0.5,
+      "chg": 19.1
+    },
+    "STAR 50": {
+      "ok": true,
+      "name": "科创50",
+      "secid": "1.000688",
+      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.000688&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260601&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "date": "2026-06-12",
+      "open": 1726.01,
+      "close": 1663.22,
+      "high": 1730.89,
+      "low": 1656.85,
+      "volume": 21018567.0,
+      "amount": 175820241129.0,
+      "amplitude": 4.45,
+      "pct_chg": 0.05,
+      "chg": 0.78
+    },
+    "BSE 50": {
+      "ok": true,
+      "name": "北证50",
+      "secid": "0.899050",
+      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.899050&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=0&beg=20260601&end=20260612&ut=fa5fd1943c7b386f172d6893dbfba10b",
+      "date": "2026-06-12",
+      "open": 1266.74,
+      "close": 1242.57,
+      "high": 1278.96,
+      "low": 1240.91,
+      "volume": 8403615.0,
+      "amount": 21349173425.0,
+      "amplitude": 3.04,
+      "pct_chg": -0.78,
+      "chg": -9.73
+    }
+  },
+  "breadth": {
+    "source_url": "https://16.push2.eastmoney.com/api/qt/clist/get?pn=1&pz=100&po=1&np=1&ut=fa5fd1943c7b386f172d6893dbfba10b&fltt=2&invt=2&fid=f3&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f12%2Cf14%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf8%2Cf100&_=1781273261389",
+    "total": 5862,
+    "valid_count": 5514,
+    "up": 3923,
+    "down": 1515,
+    "flat": 76,
+    "amount_yi": 32361.31,
+    "gt5": 414,
+    "lt_minus5": 211,
+    "top_gainers": [
+      {
+        "code": "920634",
+        "name": "新威凌",
+        "latest": 19.96,
+        "pct_chg": 29.95,
+        "amount": 134797025.81,
+        "turnover_rate": 17.49,
+        "industry": "工业金属"
+      },
+      {
+        "code": "920642",
+        "name": "通易航天",
+        "latest": 13.72,
+        "pct_chg": 28.71,
+        "amount": 272711117.71,
+        "turnover_rate": 20.43,
+        "industry": "航空装备Ⅱ"
+      },
+      {
+        "code": "688163",
+        "name": "赛伦生物",
+        "latest": 45.04,
+        "pct_chg": 20.01,
+        "amount": 231793848.0,
+        "turnover_rate": 5.11,
+        "industry": "生物制品"
+      },
+      {
+        "code": "301323",
+        "name": "新莱福",
+        "latest": 103.78,
+        "pct_chg": 20.0,
+        "amount": 709019801.83,
+        "turnover_rate": 10.58,
+        "industry": "金属新材料"
+      },
+      {
+        "code": "300377",
+        "name": "赢时胜",
+        "latest": 14.88,
+        "pct_chg": 20.0,
+        "amount": 1213709483.95,
+        "turnover_rate": 12.43,
+        "industry": "软件开发"
+      },
+      {
+        "code": "301176",
+        "name": "逸豪新材",
+        "latest": 56.6,
+        "pct_chg": 19.99,
+        "amount": 813847189.31,
+        "turnover_rate": 9.37,
+        "industry": "元件"
+      },
+      {
+        "code": "688010",
+        "name": "福光股份",
+        "latest": 47.84,
+        "pct_chg": 19.99,
+        "amount": 1078052940.0,
+        "turnover_rate": 14.79,
+        "industry": "光学光电子"
+      },
+      {
+        "code": "301348",
+        "name": "蓝箭电子",
+        "latest": 30.02,
+        "pct_chg": 19.98,
+        "amount": 599149347.34,
+        "turnover_rate": 13.08,
+        "industry": "半导体"
+      },
+      {
+        "code": "300581",
+        "name": "晨曦航空",
+        "latest": 13.16,
+        "pct_chg": 19.96,
+        "amount": 556281496.26,
+        "turnover_rate": 7.93,
+        "industry": "航空装备Ⅱ"
+      },
+      {
+        "code": "688507",
+        "name": "索辰科技",
+        "latest": 247.7,
+        "pct_chg": 19.95,
+        "amount": 3374903500.0,
+        "turnover_rate": 28.93,
+        "industry": "软件开发"
+      }
+    ],
+    "top_losers": [
+      {
+        "code": "920083",
+        "name": "金戈新材",
+        "latest": 39.8,
+        "pct_chg": -22.73,
+        "amount": 589562990.49,
+        "turnover_rate": 68.57,
+        "industry": "非金属材料Ⅱ"
+      },
+      {
+        "code": "688268",
+        "name": "华特气体",
+        "latest": 188.5,
+        "pct_chg": -17.62,
+        "amount": 3791320619.0,
+        "turnover_rate": 14.81,
+        "industry": "电子化学品Ⅱ"
+      },
+      {
+        "code": "688549",
+        "name": "中巨芯-U",
+        "latest": 24.85,
+        "pct_chg": -17.3,
+        "amount": 4947529670.0,
+        "turnover_rate": 31.64,
+        "industry": "电子化学品Ⅱ"
+      },
+      {
+        "code": "300264",
+        "name": "佳创视讯",
+        "latest": 9.1,
+        "pct_chg": -17.05,
+        "amount": 612989295.05,
+        "turnover_rate": 17.43,
+        "industry": "IT服务Ⅱ"
+      },
+      {
+        "code": "688530",
+        "name": "欧莱新材",
+        "latest": 56.68,
+        "pct_chg": -15.48,
+        "amount": 1502973630.0,
+        "turnover_rate": 34.82,
+        "industry": "半导体"
+      },
+      {
+        "code": "688106",
+        "name": "金宏气体",
+        "latest": 28.17,
+        "pct_chg": -14.89,
+        "amount": 2029671184.0,
+        "turnover_rate": 12.64,
+        "industry": "电子化学品Ⅱ"
+      },
+      {
+        "code": "688260",
+        "name": "昀冢科技",
+        "latest": 82.0,
+        "pct_chg": -13.87,
+        "amount": 710113971.0,
+        "turnover_rate": 6.93,
+        "industry": "消费电子"
+      },
+      {
+        "code": "920206",
+        "name": "彩客科技",
+        "latest": 61.2,
+        "pct_chg": -13.73,
+        "amount": 328289887.85,
+        "turnover_rate": 33.49,
+        "industry": "化学制品"
+      },
+      {
+        "code": "688146",
+        "name": "中船特气",
+        "latest": 302.0,
+        "pct_chg": -13.66,
+        "amount": 8786424759.0,
+        "turnover_rate": 19.62,
+        "industry": "半导体"
+      },
+      {
+        "code": "920402",
+        "name": "硅烷科技",
+        "latest": 11.06,
+        "pct_chg": -13.12,
+        "amount": 345508271.81,
+        "turnover_rate": 10.67,
+        "industry": "化学制品"
+      }
+    ]
+  }
+}

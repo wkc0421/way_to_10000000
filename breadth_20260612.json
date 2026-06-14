@@ -1,0 +1,195 @@
+{
+  "source_url": "https://16.push2.eastmoney.com/api/qt/clist/get?pn=1&pz=100&po=1&np=1&ut=fa5fd1943c7b386f172d6893dbfba10b&fltt=2&invt=2&fid=f3&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f12%2Cf14%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf8%2Cf100&_=1781273261389",
+  "total": 5862,
+  "valid_count": 5514,
+  "up": 3923,
+  "down": 1515,
+  "flat": 76,
+  "amount_yi": 32361.31,
+  "gt5": 414,
+  "lt_minus5": 211,
+  "top_gainers": [
+    {
+      "code": "920634",
+      "name": "新威凌",
+      "latest": 19.96,
+      "pct_chg": 29.95,
+      "amount": 134797025.81,
+      "turnover_rate": 17.49,
+      "industry": "工业金属"
+    },
+    {
+      "code": "920642",
+      "name": "通易航天",
+      "latest": 13.72,
+      "pct_chg": 28.71,
+      "amount": 272711117.71,
+      "turnover_rate": 20.43,
+      "industry": "航空装备Ⅱ"
+    },
+    {
+      "code": "688163",
+      "name": "赛伦生物",
+      "latest": 45.04,
+      "pct_chg": 20.01,
+      "amount": 231793848.0,
+      "turnover_rate": 5.11,
+      "industry": "生物制品"
+    },
+    {
+      "code": "301323",
+      "name": "新莱福",
+      "latest": 103.78,
+      "pct_chg": 20.0,
+      "amount": 709019801.83,
+      "turnover_rate": 10.58,
+      "industry": "金属新材料"
+    },
+    {
+      "code": "300377",
+      "name": "赢时胜",
+      "latest": 14.88,
+      "pct_chg": 20.0,
+      "amount": 1213709483.95,
+      "turnover_rate": 12.43,
+      "industry": "软件开发"
+    },
+    {
+      "code": "301176",
+      "name": "逸豪新材",
+      "latest": 56.6,
+      "pct_chg": 19.99,
+      "amount": 813847189.31,
+      "turnover_rate": 9.37,
+      "industry": "元件"
+    },
+    {
+      "code": "688010",
+      "name": "福光股份",
+      "latest": 47.84,
+      "pct_chg": 19.99,
+      "amount": 1078052940.0,
+      "turnover_rate": 14.79,
+      "industry": "光学光电子"
+    },
+    {
+      "code": "301348",
+      "name": "蓝箭电子",
+      "latest": 30.02,
+      "pct_chg": 19.98,
+      "amount": 599149347.34,
+      "turnover_rate": 13.08,
+      "industry": "半导体"
+    },
+    {
+      "code": "300581",
+      "name": "晨曦航空",
+      "latest": 13.16,
+      "pct_chg": 19.96,
+      "amount": 556281496.26,
+      "turnover_rate": 7.93,
+      "industry": "航空装备Ⅱ"
+    },
+    {
+      "code": "688507",
+      "name": "索辰科技",
+      "latest": 247.7,
+      "pct_chg": 19.95,
+      "amount": 3374903500.0,
+      "turnover_rate": 28.93,
+      "industry": "软件开发"
+    }
+  ],
+  "top_losers": [
+    {
+      "code": "920083",
+      "name": "金戈新材",
+      "latest": 39.8,
+      "pct_chg": -22.73,
+      "amount": 589562990.49,
+      "turnover_rate": 68.57,
+      "industry": "非金属材料Ⅱ"
+    },
+    {
+      "code": "688268",
+      "name": "华特气体",
+      "latest": 188.5,
+      "pct_chg": -17.62,
+      "amount": 3791320619.0,
+      "turnover_rate": 14.81,
+      "industry": "电子化学品Ⅱ"
+    },
+    {
+      "code": "688549",
+      "name": "中巨芯-U",
+      "latest": 24.85,
+      "pct_chg": -17.3,
+      "amount": 4947529670.0,
+      "turnover_rate": 31.64,
+      "industry": "电子化学品Ⅱ"
+    },
+    {
+      "code": "300264",
+      "name": "佳创视讯",
+      "latest": 9.1,
+      "pct_chg": -17.05,
+      "amount": 612989295.05,
+      "turnover_rate": 17.43,
+      "industry": "IT服务Ⅱ"
+    },
+    {
+      "code": "688530",
+      "name": "欧莱新材",
+      "latest": 56.68,
+      "pct_chg": -15.48,
+      "amount": 1502973630.0,
+      "turnover_rate": 34.82,
+      "industry": "半导体"
+    },
+    {
+      "code": "688106",
+      "name": "金宏气体",
+      "latest": 28.17,
+      "pct_chg": -14.89,
+      "amount": 2029671184.0,
+      "turnover_rate": 12.64,
+      "industry": "电子化学品Ⅱ"
+    },
+    {
+      "code": "688260",
+      "name": "昀冢科技",
+      "latest": 82.0,
+      "pct_chg": -13.87,
+      "amount": 710113971.0,
+      "turnover_rate": 6.93,
+      "industry": "消费电子"
+    },
+    {
+      "code": "920206",
+      "name": "彩客科技",
+      "latest": 61.2,
+      "pct_chg": -13.73,
+      "amount": 328289887.85,
+      "turnover_rate": 33.49,
+      "industry": "化学制品"
+    },
+    {
+      "code": "688146",
+      "name": "中船特气",
+      "latest": 302.0,
+      "pct_chg": -13.66,
+      "amount": 8786424759.0,
+      "turnover_rate": 19.62,
+      "industry": "半导体"
+    },
+    {
+      "code": "920402",
+      "name": "硅烷科技",
+      "latest": 11.06,
+      "pct_chg": -13.12,
+      "amount": 345508271.81,
+      "turnover_rate": 10.67,
+      "industry": "化学制品"
+    }
+  ]
+}
