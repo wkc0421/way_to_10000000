@@ -1,0 +1,1211 @@
+{
+  "review_date": "20260615",
+  "stock_code": "002971",
+  "secid": "0.002971",
+  "daily_kline": {
+    "ok": true,
+    "source": "eastmoney",
+    "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.002971&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=1&beg=0&end=20260615&ut=fa5fd1943c7b386f172d6893dbfba10b",
+    "name": "和远气体",
+    "secid": "0.002971",
+    "count": 1554,
+    "last_5": [
+      {
+        "date": "2026-06-09",
+        "open": "40.95",
+        "close": "43.59",
+        "high": "43.59",
+        "low": "40.41",
+        "volume": "332886",
+        "amount": "1422671157.60",
+        "amplitude": "8.02",
+        "pct_chg": "9.99",
+        "chg": "3.96",
+        "turnover": "21.28"
+      },
+      {
+        "date": "2026-06-10",
+        "open": "47.95",
+        "close": "47.95",
+        "high": "47.95",
+        "low": "47.94",
+        "volume": "74342",
+        "amount": "356470979.40",
+        "amplitude": "0.02",
+        "pct_chg": "10.00",
+        "chg": "4.36",
+        "turnover": "4.75"
+      },
+      {
+        "date": "2026-06-11",
+        "open": "52.75",
+        "close": "52.75",
+        "high": "52.75",
+        "low": "49.04",
+        "volume": "237992",
+        "amount": "1248622366.28",
+        "amplitude": "7.74",
+        "pct_chg": "10.01",
+        "chg": "4.80",
+        "turnover": "15.22"
+      },
+      {
+        "date": "2026-06-12",
+        "open": "55.00",
+        "close": "58.03",
+        "high": "58.03",
+        "low": "54.40",
+        "volume": "577691",
+        "amount": "3325475350.02",
+        "amplitude": "6.88",
+        "pct_chg": "10.01",
+        "chg": "5.28",
+        "turnover": "36.94"
+      },
+      {
+        "date": "2026-06-15",
+        "open": "55.76",
+        "close": "55.76",
+        "high": "55.76",
+        "low": "55.76",
+        "volume": "21788",
+        "amount": "121491003.20",
+        "amplitude": "0.00",
+        "pct_chg": "-3.91",
+        "chg": "-2.27",
+        "turnover": "1.39"
+      }
+    ],
+    "primary_ok": true
+  },
+  "eastmoney_intraday": {
+    "ok": true,
+    "source": "eastmoney",
+    "url": "https://push2his.eastmoney.com/api/qt/stock/trends2/get?secid=0.002971&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf11&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58&ndays=1&iscr=0&iscca=0&ut=fa5fd1943c7b386f172d6893dbfba10b",
+    "fallback_errors": [],
+    "name": "和远气体",
+    "secid": "0.002971",
+    "count": 1,
+    "first": {
+      "datetime": "2026-06-15 09:30",
+      "open": "55.76",
+      "close": "55.76",
+      "high": "55.76",
+      "low": "55.76",
+      "volume": "21788",
+      "amount": "121491003.00",
+      "avg_price": "55.760"
+    },
+    "last": {
+      "datetime": "2026-06-15 09:30",
+      "open": "55.76",
+      "close": "55.76",
+      "high": "55.76",
+      "low": "55.76",
+      "volume": "21788",
+      "amount": "121491003.00",
+      "avg_price": "55.760"
+    }
+  },
+  "tonghuashun": {
+    "source_health": {
+      "trade_status": {
+        "url": "https://data.10jqka.com.cn/dataapi/limit_up/trade_status",
+        "status_code": 0,
+        "data": {
+          "stat": "即将开盘",
+          "timestamp": 1781486933
+        }
+      },
+      "trade_status_v1": {
+        "url": "https://data.10jqka.com.cn/dataapi/limit_up/v1/trade_status",
+        "status_code": 0,
+        "data": {
+          "now_stat": {
+            "id": "auction_ends",
+            "name": "竞价结束",
+            "start_time": "1781486700",
+            "end_time": "1781487000"
+          },
+          "next_stat": {
+            "id": "morning_trade",
+            "name": "交易中",
+            "start_time": "1781487000",
+            "end_time": "1781494200"
+          },
+          "now": "1781486930",
+          "next_refresh": false
+        }
+      },
+      "trade_day": {
+        "url": "https://data.10jqka.com.cn/dataapi/limit_up/trade_day?date=20260615&stock=stock&next=1&prev=1",
+        "status_code": 0,
+        "data": {
+          "code": 0,
+          "msg": "请求成功",
+          "next_dates": [
+            "20260616"
+          ],
+          "prev_dates": [
+            "20260612"
+          ],
+          "trade_day": true
+        }
+      }
+    },
+    "limit_up_pool": {
+      "ok": true,
+      "url": "https://data.10jqka.com.cn/dataapi/limit_up/limit_up_pool?page=1&limit=100&field=199112%2C10%2C9001%2C330323%2C330324%2C330325%2C9002%2C330329%2C133971%2C133970%2C1968584%2C3475914%2C9003%2C9004&filter=HS%2CGEM2STAR&order_field=330324&order_type=0&date=20260615&_=1781486935313",
+      "total": 6,
+      "count": 6,
+      "rows": [
+        {
+          "code": "603738",
+          "name": "泰晶科技",
+          "market_type": "HS",
+          "latest": 56.91,
+          "change_rate": 9.9923,
+          "turnover_rate": 0.7939,
+          "currency_value": 21960857000.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "2天2板",
+          "high_days_value": 131074,
+          "first_limit_up_time": "1781486704",
+          "last_limit_up_time": "1781486704",
+          "open_num": null,
+          "order_amount": 175470600.0,
+          "order_volume": 3083300.0
+        },
+        {
+          "code": "603335",
+          "name": "迪生力",
+          "market_type": "HS",
+          "latest": 8.86,
+          "change_rate": 10.0621,
+          "turnover_rate": 0.0714,
+          "currency_value": 3793361200.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "5天3板",
+          "high_days_value": 196613,
+          "first_limit_up_time": "1781486704",
+          "last_limit_up_time": "1781486704",
+          "open_num": null,
+          "order_amount": 1401755300.0,
+          "order_volume": 158211660.0
+        },
+        {
+          "code": "601872",
+          "name": "招商轮船",
+          "market_type": "HS",
+          "latest": 17.16,
+          "change_rate": 10.0,
+          "turnover_rate": 0.0454,
+          "currency_value": 138559080000.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "首板",
+          "high_days_value": 65537,
+          "first_limit_up_time": "1781486703",
+          "last_limit_up_time": "1781486703",
+          "open_num": null,
+          "order_amount": 623377820.0,
+          "order_volume": 36327379.0
+        },
+        {
+          "code": "601975",
+          "name": "招商南油",
+          "market_type": "HS",
+          "latest": 4.58,
+          "change_rate": 10.0962,
+          "turnover_rate": 0.2912,
+          "currency_value": 21435979000.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "首板",
+          "high_days_value": 65537,
+          "first_limit_up_time": "1781486702",
+          "last_limit_up_time": "1781486702",
+          "open_num": null,
+          "order_amount": 724243510.0,
+          "order_volume": 158131770.0
+        },
+        {
+          "code": "600026",
+          "name": "中远海能",
+          "market_type": "HS",
+          "latest": 19.25,
+          "change_rate": 10.0,
+          "turnover_rate": 0.0762,
+          "currency_value": 73683448000.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "首板",
+          "high_days_value": 65537,
+          "first_limit_up_time": "1781486702",
+          "last_limit_up_time": "1781486702",
+          "open_num": null,
+          "order_amount": 120295175.0,
+          "order_volume": 6249100.0
+        },
+        {
+          "code": "002915",
+          "name": "中欣氟材",
+          "market_type": "HS",
+          "latest": 23.8,
+          "change_rate": 9.9815,
+          "turnover_rate": 0.6428,
+          "currency_value": 6856182000.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "首板",
+          "high_days_value": 65537,
+          "first_limit_up_time": "1781486700",
+          "last_limit_up_time": "1781486700",
+          "open_num": null,
+          "order_amount": 552198560.0,
+          "order_volume": 23201620.0
+        }
+      ],
+      "first_rows": [
+        {
+          "code": "603738",
+          "name": "泰晶科技",
+          "market_type": "HS",
+          "latest": 56.91,
+          "change_rate": 9.9923,
+          "turnover_rate": 0.7939,
+          "currency_value": 21960857000.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "2天2板",
+          "high_days_value": 131074,
+          "first_limit_up_time": "1781486704",
+          "last_limit_up_time": "1781486704",
+          "open_num": null,
+          "order_amount": 175470600.0,
+          "order_volume": 3083300.0
+        },
+        {
+          "code": "603335",
+          "name": "迪生力",
+          "market_type": "HS",
+          "latest": 8.86,
+          "change_rate": 10.0621,
+          "turnover_rate": 0.0714,
+          "currency_value": 3793361200.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "5天3板",
+          "high_days_value": 196613,
+          "first_limit_up_time": "1781486704",
+          "last_limit_up_time": "1781486704",
+          "open_num": null,
+          "order_amount": 1401755300.0,
+          "order_volume": 158211660.0
+        },
+        {
+          "code": "601872",
+          "name": "招商轮船",
+          "market_type": "HS",
+          "latest": 17.16,
+          "change_rate": 10.0,
+          "turnover_rate": 0.0454,
+          "currency_value": 138559080000.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "首板",
+          "high_days_value": 65537,
+          "first_limit_up_time": "1781486703",
+          "last_limit_up_time": "1781486703",
+          "open_num": null,
+          "order_amount": 623377820.0,
+          "order_volume": 36327379.0
+        },
+        {
+          "code": "601975",
+          "name": "招商南油",
+          "market_type": "HS",
+          "latest": 4.58,
+          "change_rate": 10.0962,
+          "turnover_rate": 0.2912,
+          "currency_value": 21435979000.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "首板",
+          "high_days_value": 65537,
+          "first_limit_up_time": "1781486702",
+          "last_limit_up_time": "1781486702",
+          "open_num": null,
+          "order_amount": 724243510.0,
+          "order_volume": 158131770.0
+        },
+        {
+          "code": "600026",
+          "name": "中远海能",
+          "market_type": "HS",
+          "latest": 19.25,
+          "change_rate": 10.0,
+          "turnover_rate": 0.0762,
+          "currency_value": 73683448000.0,
+          "reason_type": null,
+          "limit_up_type": "一字板",
+          "high_days": "首板",
+          "high_days_value": 65537,
+          "first_limit_up_time": "1781486702",
+          "last_limit_up_time": "1781486702",
+          "open_num": null,
+          "order_amount": 120295175.0,
+          "order_volume": 6249100.0
+        }
+      ],
+      "date": "20260615",
+      "limit_up_count": {
+        "today": {
+          "num": 6,
+          "history_num": 6,
+          "rate": 1.0,
+          "open_num": 0
+        },
+        "yesterday": {
+          "num": 88,
+          "history_num": 149,
+          "rate": 0.5906040268456376,
+          "open_num": 61
+        }
+      },
+      "limit_down_count": {
+        "today": {
+          "num": 1,
+          "history_num": 1,
+          "rate": 1.0,
+          "open_num": 0
+        },
+        "yesterday": {
+          "num": 15,
+          "history_num": 22,
+          "rate": 0.6818181818181818,
+          "open_num": 7
+        }
+      },
+      "trade_status": {
+        "id": "auction_ends",
+        "name": "竞价结束",
+        "start_time": "09:25",
+        "end_time": "09:30"
+      }
+    },
+    "open_limit_pool": {
+      "ok": true,
+      "url": "https://data.10jqka.com.cn/dataapi/limit_up/open_limit_pool?page=1&limit=100&field=199112%2C9002%2C48%2C1968584%2C19%2C3475914%2C9003%2C10%2C9004&filter=HS%2CGEM2STAR&order_field=199112&order_type=0&date=20260615&_=1781486935424",
+      "total": 0,
+      "count": 0,
+      "rows": [],
+      "first_rows": [],
+      "date": "20260615",
+      "limit_up_count": {
+        "today": {
+          "num": 6,
+          "history_num": 6,
+          "rate": 1.0,
+          "open_num": 0
+        },
+        "yesterday": {
+          "num": 88,
+          "history_num": 149,
+          "rate": 0.5906040268456376,
+          "open_num": 61
+        }
+      },
+      "limit_down_count": {
+        "today": {
+          "num": 1,
+          "history_num": 1,
+          "rate": 1.0,
+          "open_num": 0
+        },
+        "yesterday": {
+          "num": 15,
+          "history_num": 22,
+          "rate": 0.6818181818181818,
+          "open_num": 7
+        }
+      },
+      "trade_status": {
+        "id": "auction_ends",
+        "name": "竞价结束",
+        "start_time": "09:25",
+        "end_time": "09:30"
+      }
+    },
+    "lower_limit_pool": {
+      "ok": true,
+      "url": "https://data.10jqka.com.cn/dataapi/limit_up/lower_limit_pool?page=1&limit=100&field=199112%2C10%2C330333%2C330334%2C1968584%2C3475914%2C9004&filter=HS%2CGEM2STAR&order_field=330334&order_type=0&date=20260615&_=1781486935522",
+      "total": 1,
+      "count": 1,
+      "rows": [
+        {
+          "code": "600791",
+          "name": "京能置业",
+          "market_type": "HS",
+          "latest": 10.93,
+          "change_rate": -9.9671,
+          "turnover_rate": 0.0349,
+          "currency_value": 4943788700.0,
+          "high_days_value": null,
+          "first_limit_down_time": "1781486703",
+          "last_limit_down_time": "1781486703"
+        }
+      ],
+      "first_rows": [
+        {
+          "code": "600791",
+          "name": "京能置业",
+          "market_type": "HS",
+          "latest": 10.93,
+          "change_rate": -9.9671,
+          "turnover_rate": 0.0349,
+          "currency_value": 4943788700.0,
+          "high_days_value": null,
+          "first_limit_down_time": "1781486703",
+          "last_limit_down_time": "1781486703"
+        }
+      ],
+      "date": "20260615",
+      "limit_up_count": {
+        "today": {
+          "num": 6,
+          "history_num": 6,
+          "rate": 1.0,
+          "open_num": 0
+        },
+        "yesterday": {
+          "num": 88,
+          "history_num": 149,
+          "rate": 0.5906040268456376,
+          "open_num": 61
+        }
+      },
+      "limit_down_count": {
+        "today": {
+          "num": 1,
+          "history_num": 1,
+          "rate": 1.0,
+          "open_num": 0
+        },
+        "yesterday": {
+          "num": 15,
+          "history_num": 22,
+          "rate": 0.6818181818181818,
+          "open_num": 7
+        }
+      },
+      "trade_status": {
+        "id": "auction_ends",
+        "name": "竞价结束",
+        "start_time": "09:25",
+        "end_time": "09:30"
+      }
+    },
+    "block_top": {
+      "ok": true,
+      "url": "https://data.10jqka.com.cn/dataapi/limit_up/block_top?filter=HS%2CGEM2STAR&date=20260615&_=1781486935647",
+      "count": 9,
+      "rows": [
+        {
+          "code": "881148",
+          "name": "港口航运",
+          "change": 2.3522,
+          "limit_up_num": 3,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 1,
+          "stock_count": 3,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "601975",
+              "name": "招商南油",
+              "market_type": "HS",
+              "latest": 4.58,
+              "change_rate": 10.0962,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        },
+        {
+          "code": "885733",
+          "name": "航运概念",
+          "change": 1.0894,
+          "limit_up_num": 3,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 1,
+          "stock_count": 3,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "601975",
+              "name": "招商南油",
+              "market_type": "HS",
+              "latest": 4.58,
+              "change_rate": 10.0962,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        },
+        {
+          "code": "885595",
+          "name": "央企国企改革",
+          "change": 0.2745,
+          "limit_up_num": 3,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 2,
+          "stock_count": 3,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "601975",
+              "name": "招商南油",
+              "market_type": "HS",
+              "latest": 4.58,
+              "change_rate": 10.0962,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        },
+        {
+          "code": "885472",
+          "name": "上海自贸区",
+          "change": 0.9152,
+          "limit_up_num": 2,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 1,
+          "stock_count": 2,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        },
+        {
+          "code": "885789",
+          "name": "宁德时代概念",
+          "change": 0.8686,
+          "limit_up_num": 2,
+          "continuous_plate_num": 2,
+          "high": "5天3板",
+          "high_num": 196613,
+          "days": 1,
+          "stock_count": 2,
+          "stock_list": [
+            {
+              "code": "603738",
+              "name": "泰晶科技",
+              "market_type": "HS",
+              "latest": 56.91,
+              "change_rate": 9.9923,
+              "reason_type": null,
+              "high_days": 131074,
+              "first_limit_up_time": "1781486704",
+              "last_limit_up_time": "1781486704"
+            },
+            {
+              "code": "603335",
+              "name": "迪生力",
+              "market_type": "HS",
+              "latest": 8.86,
+              "change_rate": 10.0621,
+              "reason_type": null,
+              "high_days": 196613,
+              "first_limit_up_time": "1781486704",
+              "last_limit_up_time": "1781486704"
+            }
+          ]
+        },
+        {
+          "code": "885494",
+          "name": "一带一路",
+          "change": 0.4566,
+          "limit_up_num": 2,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 2,
+          "stock_count": 2,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        },
+        {
+          "code": "885929",
+          "name": "专精特新",
+          "change": 0.3296,
+          "limit_up_num": 2,
+          "continuous_plate_num": 1,
+          "high": "2天2板",
+          "high_num": 131074,
+          "days": 5,
+          "stock_count": 2,
+          "stock_list": [
+            {
+              "code": "002915",
+              "name": "中欣氟材",
+              "market_type": "HS",
+              "latest": 23.8,
+              "change_rate": 9.9815,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486700",
+              "last_limit_up_time": "1781486700"
+            },
+            {
+              "code": "603738",
+              "name": "泰晶科技",
+              "market_type": "HS",
+              "latest": 56.91,
+              "change_rate": 9.9923,
+              "reason_type": null,
+              "high_days": 131074,
+              "first_limit_up_time": "1781486704",
+              "last_limit_up_time": "1781486704"
+            }
+          ]
+        },
+        {
+          "code": "885964",
+          "name": "俄乌冲突概念",
+          "change": -0.2437,
+          "limit_up_num": 2,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 1,
+          "stock_count": 2,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        },
+        {
+          "code": "885430",
+          "name": "天然气",
+          "change": -0.3334,
+          "limit_up_num": 2,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 1,
+          "stock_count": 2,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        }
+      ],
+      "first_rows": [
+        {
+          "code": "881148",
+          "name": "港口航运",
+          "change": 2.3522,
+          "limit_up_num": 3,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 1,
+          "stock_count": 3,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "601975",
+              "name": "招商南油",
+              "market_type": "HS",
+              "latest": 4.58,
+              "change_rate": 10.0962,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        },
+        {
+          "code": "885733",
+          "name": "航运概念",
+          "change": 1.0894,
+          "limit_up_num": 3,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 1,
+          "stock_count": 3,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "601975",
+              "name": "招商南油",
+              "market_type": "HS",
+              "latest": 4.58,
+              "change_rate": 10.0962,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        },
+        {
+          "code": "885595",
+          "name": "央企国企改革",
+          "change": 0.2745,
+          "limit_up_num": 3,
+          "continuous_plate_num": 0,
+          "high": "首板",
+          "high_num": 65537,
+          "days": 2,
+          "stock_count": 3,
+          "stock_list": [
+            {
+              "code": "601872",
+              "name": "招商轮船",
+              "market_type": "HS",
+              "latest": 17.16,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486703",
+              "last_limit_up_time": "1781486703"
+            },
+            {
+              "code": "601975",
+              "name": "招商南油",
+              "market_type": "HS",
+              "latest": 4.58,
+              "change_rate": 10.0962,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            },
+            {
+              "code": "600026",
+              "name": "中远海能",
+              "market_type": "HS",
+              "latest": 19.25,
+              "change_rate": 10.0,
+              "reason_type": null,
+              "high_days": 65537,
+              "first_limit_up_time": "1781486702",
+              "last_limit_up_time": "1781486702"
+            }
+          ]
+        }
+      ],
+      "stock_to_sectors": {
+        "601872": [
+          {
+            "block_code": "881148",
+            "block_name": "港口航运",
+            "block_change": 2.3522,
+            "block_limit_up_num": 3,
+            "stock_name": "招商轮船",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885733",
+            "block_name": "航运概念",
+            "block_change": 1.0894,
+            "block_limit_up_num": 3,
+            "stock_name": "招商轮船",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885595",
+            "block_name": "央企国企改革",
+            "block_change": 0.2745,
+            "block_limit_up_num": 3,
+            "stock_name": "招商轮船",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885472",
+            "block_name": "上海自贸区",
+            "block_change": 0.9152,
+            "block_limit_up_num": 2,
+            "stock_name": "招商轮船",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885494",
+            "block_name": "一带一路",
+            "block_change": 0.4566,
+            "block_limit_up_num": 2,
+            "stock_name": "招商轮船",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885964",
+            "block_name": "俄乌冲突概念",
+            "block_change": -0.2437,
+            "block_limit_up_num": 2,
+            "stock_name": "招商轮船",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885430",
+            "block_name": "天然气",
+            "block_change": -0.3334,
+            "block_limit_up_num": 2,
+            "stock_name": "招商轮船",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          }
+        ],
+        "601975": [
+          {
+            "block_code": "881148",
+            "block_name": "港口航运",
+            "block_change": 2.3522,
+            "block_limit_up_num": 3,
+            "stock_name": "招商南油",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885733",
+            "block_name": "航运概念",
+            "block_change": 1.0894,
+            "block_limit_up_num": 3,
+            "stock_name": "招商南油",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885595",
+            "block_name": "央企国企改革",
+            "block_change": 0.2745,
+            "block_limit_up_num": 3,
+            "stock_name": "招商南油",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          }
+        ],
+        "600026": [
+          {
+            "block_code": "881148",
+            "block_name": "港口航运",
+            "block_change": 2.3522,
+            "block_limit_up_num": 3,
+            "stock_name": "中远海能",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885733",
+            "block_name": "航运概念",
+            "block_change": 1.0894,
+            "block_limit_up_num": 3,
+            "stock_name": "中远海能",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885595",
+            "block_name": "央企国企改革",
+            "block_change": 0.2745,
+            "block_limit_up_num": 3,
+            "stock_name": "中远海能",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885472",
+            "block_name": "上海自贸区",
+            "block_change": 0.9152,
+            "block_limit_up_num": 2,
+            "stock_name": "中远海能",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885494",
+            "block_name": "一带一路",
+            "block_change": 0.4566,
+            "block_limit_up_num": 2,
+            "stock_name": "中远海能",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885964",
+            "block_name": "俄乌冲突概念",
+            "block_change": -0.2437,
+            "block_limit_up_num": 2,
+            "stock_name": "中远海能",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885430",
+            "block_name": "天然气",
+            "block_change": -0.3334,
+            "block_limit_up_num": 2,
+            "stock_name": "中远海能",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          }
+        ],
+        "603738": [
+          {
+            "block_code": "885789",
+            "block_name": "宁德时代概念",
+            "block_change": 0.8686,
+            "block_limit_up_num": 2,
+            "stock_name": "泰晶科技",
+            "stock_high": "2天2板",
+            "stock_reason_type": null
+          },
+          {
+            "block_code": "885929",
+            "block_name": "专精特新",
+            "block_change": 0.3296,
+            "block_limit_up_num": 2,
+            "stock_name": "泰晶科技",
+            "stock_high": "2天2板",
+            "stock_reason_type": null
+          }
+        ],
+        "603335": [
+          {
+            "block_code": "885789",
+            "block_name": "宁德时代概念",
+            "block_change": 0.8686,
+            "block_limit_up_num": 2,
+            "stock_name": "迪生力",
+            "stock_high": "5天3板",
+            "stock_reason_type": null
+          }
+        ],
+        "002915": [
+          {
+            "block_code": "885929",
+            "block_name": "专精特新",
+            "block_change": 0.3296,
+            "block_limit_up_num": 2,
+            "stock_name": "中欣氟材",
+            "stock_high": "首板",
+            "stock_reason_type": null
+          }
+        ]
+      }
+    }
+  },
+  "source_health": {}
+}

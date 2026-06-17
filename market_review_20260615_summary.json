@@ -1,0 +1,1093 @@
+{
+  "review_date": "20260615",
+  "prev_date": "2026-06-12",
+  "counts": {
+    "limit_up": 144,
+    "open_limit": 42,
+    "lower_limit": 3,
+    "breadth_up": 3923,
+    "breadth_down": 1515,
+    "amount_yi": null
+  },
+  "blocks": [
+    {
+      "code": "801660",
+      "name": "通信",
+      "strength": 40075,
+      "pct": 5.513,
+      "momentum": 0.409
+    },
+    {
+      "code": "801001",
+      "name": "芯片",
+      "strength": 27385,
+      "pct": 4.375,
+      "momentum": 0.734
+    },
+    {
+      "code": "801445",
+      "name": "元器件",
+      "strength": 12620,
+      "pct": 6.26,
+      "momentum": 0.32
+    },
+    {
+      "code": "801159",
+      "name": "机器人概念",
+      "strength": 11391,
+      "pct": 2.839,
+      "momentum": 0.661
+    },
+    {
+      "code": "801807",
+      "name": "算力",
+      "strength": 9820,
+      "pct": 3.671,
+      "momentum": 0.697
+    },
+    {
+      "code": "801088",
+      "name": "有色金属",
+      "strength": 5900,
+      "pct": 3.367,
+      "momentum": 0.562
+    },
+    {
+      "code": "801235",
+      "name": "化工",
+      "strength": 5229,
+      "pct": 1.862,
+      "momentum": 1.212
+    },
+    {
+      "code": "801004",
+      "name": "锂电池",
+      "strength": 4940,
+      "pct": 3.304,
+      "momentum": 1.026
+    },
+    {
+      "code": "801314",
+      "name": "ST板块",
+      "strength": 4218,
+      "pct": 0.683,
+      "momentum": 0.513
+    },
+    {
+      "code": "801250",
+      "name": "并购重组",
+      "strength": 3691,
+      "pct": 2.165,
+      "momentum": 0.727
+    }
+  ],
+  "watchlist": {
+    "600396": {
+      "code": "600396",
+      "name": "华电辽能",
+      "group": "电力锚定",
+      "note": "留档观察",
+      "openPct": -2.914285714285725,
+      "highPct": 4.0000000000000036,
+      "lowPct": -5.6571428571428495,
+      "closePct": 1.8857142857142684,
+      "amount": null,
+      "price": 17.83,
+      "pct3": -6.698063840920987,
+      "pct5": -7.616580310880838,
+      "pct10": -3.621621621621629,
+      "pct30": 70.94918504314475,
+      "ma5": 18.68,
+      "ma10": 19.541999999999998,
+      "indexName": "上证指数",
+      "indexPct10": 0.954521482401538,
+      "indexPct30": -0.26882440327653523,
+      "deviation10": -4.576143104023167,
+      "deviation30": 71.21800944642129,
+      "limitPct": 10,
+      "limitClose": 19.613,
+      "simDeviation10": 5.061694733814681,
+      "simDeviation30": 88.31292795073576
+    },
+    "601991": {
+      "code": "601991",
+      "name": "大唐发电",
+      "group": "电力锚定",
+      "note": "留档观察",
+      "openPct": 1.1124845488257096,
+      "highPct": 8.405438813349807,
+      "lowPct": -1.1124845488257096,
+      "closePct": 7.91100123609394,
+      "amount": null,
+      "price": 8.73,
+      "pct3": 12.5,
+      "pct5": 20.082530949105927,
+      "pct10": 4.301075268817223,
+      "pct30": 103.4965034965035,
+      "ma5": 8.056000000000001,
+      "ma10": 8.257,
+      "indexName": "上证指数",
+      "indexPct10": 0.954521482401538,
+      "indexPct30": -0.26882440327653523,
+      "deviation10": 3.3465537864156847,
+      "deviation30": 103.76532789978003,
+      "limitPct": 10,
+      "limitClose": 9.603000000000002,
+      "simDeviation10": 13.77666131329742,
+      "simDeviation30": 124.1149782494304
+    },
+    "002421": {
+      "code": "002421",
+      "name": "达实智能",
+      "group": "物理AI锚定",
+      "note": "负反馈样本",
+      "openPct": -6.818181818181834,
+      "highPct": -5.454545454545457,
+      "lowPct": -9.545454545454557,
+      "closePct": -8.863636363636374,
+      "amount": null,
+      "price": 4.01,
+      "pct3": -26.151012891344383,
+      "pct5": -30.017452006980815,
+      "pct10": -11.283185840707965,
+      "pct30": 43.72759856630823,
+      "ma5": 4.886,
+      "ma10": 4.996,
+      "indexName": "深证A指",
+      "indexPct10": 0.1969608711039239,
+      "indexPct30": 0.6117691015414817,
+      "deviation10": -11.480146711811889,
+      "deviation30": 43.11582946476675,
+      "limitPct": 10,
+      "limitClose": 4.4110000000000005,
+      "simDeviation10": -2.608465295882678,
+      "simDeviation30": 57.4885893213976
+    },
+    "002354": {
+      "code": "002354",
+      "name": "天娱数科",
+      "group": "物理AI锚定",
+      "note": "修复样本",
+      "openPct": 0.5319148936170137,
+      "highPct": 6.117021276595747,
+      "lowPct": -1.8617021276595702,
+      "closePct": -0.26595744680850686,
+      "amount": null,
+      "price": 7.5,
+      "pct3": -15.445321307779025,
+      "pct5": 2.3192360163710735,
+      "pct10": 0.8064516129032251,
+      "pct30": 26.050420168067223,
+      "ma5": 7.986,
+      "ma10": 7.284999999999999,
+      "indexName": "深证A指",
+      "indexPct10": 0.1969608711039239,
+      "indexPct30": 0.6117691015414817,
+      "deviation10": 0.6094907417993012,
+      "deviation30": 25.438651066525743,
+      "limitPct": 10,
+      "limitClose": 8.25,
+      "simDeviation10": 10.690135903089626,
+      "simDeviation30": 38.043693083332485
+    },
+    "600403": {
+      "code": "600403",
+      "name": "大有能源",
+      "group": "上一连板高标",
+      "note": "连板负反馈锚",
+      "openPct": -8.965517241379317,
+      "highPct": -7.172413793103438,
+      "lowPct": -9.931034482758616,
+      "closePct": -9.931034482758616,
+      "amount": null,
+      "price": 6.53,
+      "pct3": -14.640522875816997,
+      "pct5": -27.03910614525139,
+      "pct10": 17.44604316546763,
+      "pct30": 10.490693739424707,
+      "ma5": 7.508,
+      "ma10": 7.4879999999999995,
+      "indexName": "上证指数",
+      "indexPct10": 0.954521482401538,
+      "indexPct30": -0.26882440327653523,
+      "deviation10": 16.49152168306609,
+      "deviation30": 10.759518142701243,
+      "limitPct": 10,
+      "limitClose": 7.183000000000001,
+      "simDeviation10": 28.23612599961287,
+      "simDeviation30": 21.80858751664372
+    },
+    "002636": {
+      "code": "002636",
+      "name": "金安国纪",
+      "group": "晋级失败高标",
+      "note": "失败高标修复",
+      "openPct": 1.157098353360042,
+      "highPct": 9.034267912772599,
+      "lowPct": 0.31152647975078995,
+      "closePct": 8.299955496217182,
+      "amount": null,
+      "price": 97.34,
+      "pct3": 25.729785585120133,
+      "pct5": 52.14129415442328,
+      "pct10": 95.1874874674153,
+      "pct30": 114.68901632112924,
+      "ma5": 83.964,
+      "ma10": 69.832,
+      "indexName": "深证A指",
+      "indexPct10": 0.1969608711039239,
+      "indexPct30": 0.6117691015414817,
+      "deviation10": 94.99052659631137,
+      "deviation30": 114.07724721958776,
+      "limitPct": 10,
+      "limitClose": 107.07400000000001,
+      "simDeviation10": 114.5092753430529,
+      "simDeviation30": 135.54614885170068
+    },
+    "603065": {
+      "code": "603065",
+      "name": "宿迁联盛",
+      "group": "晋级成功高标",
+      "note": "高标承接",
+      "openPct": -3.088235294117647,
+      "highPct": 2.8676470588235414,
+      "lowPct": -9.191176470588236,
+      "closePct": -1.4705882352941124,
+      "amount": null,
+      "price": 13.4,
+      "pct3": 17.132867132867148,
+      "pct5": 41.79894179894181,
+      "pct10": 71.57490396927018,
+      "pct30": 61.64053075995177,
+      "ma5": 12.24,
+      "ma10": 10.49,
+      "indexName": "上证指数",
+      "indexPct10": 0.954521482401538,
+      "indexPct30": -0.26882440327653523,
+      "deviation10": 70.62038248686865,
+      "deviation30": 61.909355163228305,
+      "limitPct": 10,
+      "limitClose": 14.740000000000002,
+      "simDeviation10": 87.77787288379567,
+      "simDeviation30": 78.07340823922351
+    },
+    "002971": {
+      "code": "002971",
+      "name": "和远气体",
+      "group": "持仓 / 氟化工核心",
+      "note": "上次复盘持仓假设",
+      "openPct": -3.911769774254703,
+      "highPct": 3.222471135619509,
+      "lowPct": -9.994830260210241,
+      "closePct": -2.154058245734969,
+      "amount": null,
+      "price": 56.78,
+      "pct3": 18.41501564129302,
+      "pct5": 43.27529649255615,
+      "pct10": 64.19895893580106,
+      "pct30": 75.35515750463249,
+      "ma5": 51.82000000000001,
+      "ma10": 44.357,
+      "indexName": "深证A指",
+      "indexPct10": 0.1969608711039239,
+      "indexPct30": 0.6117691015414817,
+      "deviation10": 64.00199806469713,
+      "deviation30": 74.743388403091,
+      "limitPct": 10,
+      "limitClose": 62.458000000000006,
+      "simDeviation10": 80.42189395827725,
+      "simDeviation30": 92.27890415355427
+    },
+    "600500": {
+      "code": "600500",
+      "name": "中化国际",
+      "group": "晋级成功高标",
+      "note": "材料/化工高标",
+      "openPct": -1.0088272383354413,
+      "highPct": 7.061790668348045,
+      "lowPct": -8.575031525851195,
+      "closePct": 3.90920554854981,
+      "amount": null,
+      "price": 8.24,
+      "pct3": 25.801526717557266,
+      "pct5": 52.31053604436229,
+      "pct10": 44.56140350877193,
+      "pct30": 86.00451467268624,
+      "ma5": 7.176,
+      "ma10": 6.493,
+      "indexName": "上证指数",
+      "indexPct10": 0.954521482401538,
+      "indexPct30": -0.26882440327653523,
+      "deviation10": 43.60688202637039,
+      "deviation30": 86.27333907596278,
+      "limitPct": 10,
+      "limitClose": 9.064000000000002,
+      "simDeviation10": 58.063022377247606,
+      "simDeviation30": 104.87379054323144
+    },
+    "688146": {
+      "code": "688146",
+      "name": "中船特气",
+      "group": "六氟化钨核心",
+      "note": "监管风险锚",
+      "openPct": 2.6490066225165476,
+      "highPct": 5.602649006622529,
+      "lowPct": -7.2715231788079375,
+      "closePct": 5.397350993377481,
+      "amount": null,
+      "price": 318.3,
+      "pct3": 9.0068493150685,
+      "pct5": 26.219367118724723,
+      "pct10": 87.2463086063886,
+      "pct30": 318.21048482459605,
+      "ma5": 302.584,
+      "ma10": 259.006,
+      "indexName": "科创50",
+      "indexPct10": 5.0869931610019625,
+      "indexPct30": 17.06194488803183,
+      "deviation10": 82.15931544538664,
+      "deviation30": 301.14853993656425,
+      "limitPct": 20,
+      "limitClose": 381.96,
+      "simDeviation10": 119.60857716666433,
+      "simDeviation30": 384.79063690148337
+    },
+    "601958": {
+      "code": "601958",
+      "name": "金钼股份",
+      "group": "小金属 / 有色金属",
+      "note": "有色高度锚",
+      "openPct": 6.778996865203757,
+      "highPct": 9.992163009404397,
+      "lowPct": 5.916927899686519,
+      "closePct": 9.992163009404397,
+      "amount": null,
+      "price": 28.07,
+      "pct3": 33.09625414888573,
+      "pct5": 34.95192307692307,
+      "pct10": 20.991379310344826,
+      "pct30": 41.69611307420495,
+      "ma5": 23.766,
+      "ma10": 23.27,
+      "indexName": "上证指数",
+      "indexPct10": 0.954521482401538,
+      "indexPct30": -0.26882440327653523,
+      "deviation10": 20.036857827943287,
+      "deviation30": 41.964937477481485,
+      "limitPct": 10,
+      "limitClose": 30.877000000000002,
+      "simDeviation10": 32.135995758977785,
+      "simDeviation30": 56.134548784902
+    },
+    "603993": {
+      "code": "603993",
+      "name": "洛阳钼业",
+      "group": "有色权重 / 钼铜",
+      "note": "容量中军",
+      "openPct": 1.9884877027734227,
+      "highPct": 9.8901098901099,
+      "lowPct": 1.9884877027734227,
+      "closePct": 9.471480900052342,
+      "amount": null,
+      "price": 20.92,
+      "pct3": 24.597974985110206,
+      "pct5": 23.86027235050325,
+      "pct10": 13.57220412595006,
+      "pct30": 9.015112037519547,
+      "ma5": 18.248,
+      "ma10": 18.469,
+      "indexName": "上证指数",
+      "indexPct10": 0.954521482401538,
+      "indexPct30": -0.26882440327653523,
+      "deviation10": 12.617682643548523,
+      "deviation30": 9.283936440796083,
+      "limitPct": 10,
+      "limitClose": 23.012000000000004,
+      "simDeviation10": 23.974903056143535,
+      "simDeviation30": 20.185447644548038
+    }
+  },
+  "feedback": [
+    {
+      "code": "002971",
+      "name": "和远气体",
+      "prev_height": "7天5板",
+      "prev_first": "09:31:09",
+      "status": "断板走弱",
+      "today_pct": -2.154058245734969,
+      "open": 55.76,
+      "high": 59.9,
+      "low": 52.23,
+      "close": 56.78
+    },
+    {
+      "code": "603020",
+      "name": "爱普股份",
+      "prev_height": "6天3板",
+      "prev_first": "11:24:31",
+      "status": "断板走弱",
+      "today_pct": -9.969325153374232,
+      "open": 13.1,
+      "high": 13.1,
+      "low": 11.74,
+      "close": 11.74
+    },
+    {
+      "code": "001696",
+      "name": "宗申动力",
+      "prev_height": "5天4板",
+      "prev_first": "09:53:33",
+      "status": "断板收红",
+      "today_pct": 0.04378283712784814,
+      "open": 22.05,
+      "high": 23.05,
+      "low": 21.06,
+      "close": 22.85
+    },
+    {
+      "code": "603065",
+      "name": "宿迁联盛",
+      "prev_height": "4天4板",
+      "prev_first": "09:25:01",
+      "status": "断板走弱",
+      "today_pct": -1.4705882352941124,
+      "open": 13.18,
+      "high": 13.99,
+      "low": 12.35,
+      "close": 13.4
+    },
+    {
+      "code": "603335",
+      "name": "迪生力",
+      "prev_height": "4天2板",
+      "prev_first": "09:25:02",
+      "status": "涨停晋级",
+      "today_pct": 10.062111801242214,
+      "open": 8.86,
+      "high": 8.86,
+      "low": 8.86,
+      "close": 8.86
+    },
+    {
+      "code": "601958",
+      "name": "金钼股份",
+      "prev_height": "2天2板",
+      "prev_first": "09:25:02",
+      "status": "涨停晋级",
+      "today_pct": 9.992163009404397,
+      "open": 27.25,
+      "high": 28.07,
+      "low": 27.03,
+      "close": 28.07
+    },
+    {
+      "code": "001257",
+      "name": "盛龙股份",
+      "prev_height": "2天2板",
+      "prev_first": "09:30:00",
+      "status": "涨停晋级",
+      "today_pct": 9.985580389329506,
+      "open": 29.9,
+      "high": 30.51,
+      "low": 29.5,
+      "close": 30.51
+    },
+    {
+      "code": "002203",
+      "name": "海亮股份",
+      "prev_height": "2天2板",
+      "prev_first": "09:30:03",
+      "status": "断板收红",
+      "today_pct": 5.759385665529004,
+      "open": 23.0,
+      "high": 25.5,
+      "low": 22.5,
+      "close": 24.79
+    },
+    {
+      "code": "002976",
+      "name": "瑞玛精密",
+      "prev_height": "4天2板",
+      "prev_first": "09:32:09",
+      "status": "跌停",
+      "today_pct": -10.006082725060839,
+      "open": 30.93,
+      "high": 32.0,
+      "low": 29.59,
+      "close": 29.59
+    }
+  ],
+  "announcements": {
+    "600396": {
+      "items": [],
+      "tone": "中性",
+      "note": "无新增公告扰动。"
+    },
+    "601991": {
+      "items": [
+        {
+          "date": "2026-06-15",
+          "title": "大唐发电:大唐发电关于超短期融资券发行的公告",
+          "url": "https://data.eastmoney.com/notices/detail/601991/AN202606151823572637.html",
+          "art_code": "AN202606151823572637"
+        }
+      ],
+      "tone": "中性",
+      "note": "公告偏治理或常规事项，未构成明确交易催化。"
+    },
+    "002421": {
+      "items": [
+        {
+          "date": "2026-06-15",
+          "title": "达实智能:关于在沙特阿拉伯投资设立全资子公司的进展公告",
+          "url": "https://data.eastmoney.com/notices/detail/002421/AN202606151823573388.html",
+          "art_code": "AN202606151823573388"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "达实智能:关于控股股东及实际控制人股份解除质押的公告",
+          "url": "https://data.eastmoney.com/notices/detail/002421/AN202606141823550695.html",
+          "art_code": "AN202606141823550695"
+        }
+      ],
+      "tone": "中性",
+      "note": "公告偏治理或常规事项，未构成明确交易催化。"
+    },
+    "002354": {
+      "items": [],
+      "tone": "中性",
+      "note": "无新增公告扰动。"
+    },
+    "600403": {
+      "items": [
+        {
+          "date": "2026-06-15",
+          "title": "大有能源:河南大有能源股份有限公司股票交易异常波动公告",
+          "url": "https://data.eastmoney.com/notices/detail/600403/AN202606151823570007.html",
+          "art_code": "AN202606151823570007"
+        }
+      ],
+      "tone": "偏风险",
+      "note": "存在异动/风险/问询或减持类标题，强势票按风险扰动处理。"
+    },
+    "002636": {
+      "items": [
+        {
+          "date": "2026-06-15",
+          "title": "金安国纪:关于金安国纪集团股份有限公司申请向特定对象发行股票的审核问询函的回复(修订稿)",
+          "url": "https://data.eastmoney.com/notices/detail/002636/AN202606151823574829.html",
+          "art_code": "AN202606151823574829"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "金安国纪:上会会计师事务所(特殊普通合伙)关于金安国纪集团股份有限公司申请向特定对象发行股票的审核问询函的回复",
+          "url": "https://data.eastmoney.com/notices/detail/002636/AN202606151823574833.html",
+          "art_code": "AN202606151823574833"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "金安国纪:股票交易异常波动公告",
+          "url": "https://data.eastmoney.com/notices/detail/002636/AN202606151823574842.html",
+          "art_code": "AN202606151823574842"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "金安国纪:国联民生证券承销保荐有限公司关于金安国纪集团股份有限公司2025年度向特定对象发行A股股票之上市保荐书",
+          "url": "https://data.eastmoney.com/notices/detail/002636/AN202606151823574844.html",
+          "art_code": "AN202606151823574844"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "金安国纪:金安国纪集团股份有限公司2025年度向特定对象发行A股股票募集说明书(修订稿)",
+          "url": "https://data.eastmoney.com/notices/detail/002636/AN202606151823574830.html",
+          "art_code": "AN202606151823574830"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "金安国纪:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+          "url": "https://data.eastmoney.com/notices/detail/002636/AN202606151823574835.html",
+          "art_code": "AN202606151823574835"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "金安国纪:国联民生证券承销保荐有限公司关于金安国纪集团股份有限公司2025年度向特定对象发行A股股票之发行保荐书",
+          "url": "https://data.eastmoney.com/notices/detail/002636/AN202606151823574836.html",
+          "art_code": "AN202606151823574836"
+        }
+      ],
+      "tone": "偏风险",
+      "note": "存在异动/风险/问询或减持类标题，强势票按风险扰动处理。"
+    },
+    "603065": {
+      "items": [],
+      "tone": "中性",
+      "note": "无新增公告扰动。"
+    },
+    "002971": {
+      "items": [
+        {
+          "date": "2026-06-15",
+          "title": "和远气体:关于部分限制性股票回购注销完成的公告",
+          "url": "https://data.eastmoney.com/notices/detail/002971/AN202606151823576708.html",
+          "art_code": "AN202606151823576708"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "和远气体:关于调整向特定对象发行股票发行价格和发行数量的公告",
+          "url": "https://data.eastmoney.com/notices/detail/002971/AN202606151823572211.html",
+          "art_code": "AN202606151823572211"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "和远气体:2026年第二次独立董事专门会议审核意见",
+          "url": "https://data.eastmoney.com/notices/detail/002971/AN202606151823572209.html",
+          "art_code": "AN202606151823572209"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "和远气体:关于与特定对象签署附条件生效的股份认购协议之补充协议暨关联交易的公告",
+          "url": "https://data.eastmoney.com/notices/detail/002971/AN202606151823572219.html",
+          "art_code": "AN202606151823572219"
+        },
+        {
+          "date": "2026-06-15",
+          "title": "和远气体:第五届董事会第十八次会议决议公告",
+          "url": "https://data.eastmoney.com/notices/detail/002971/AN202606151823572215.html",
+          "art_code": "AN202606151823572215"
+        },
+        {
+          "date": "2026-06-14",
+          "title": "和远气体:关于股票交易异常波动的公告",
+          "url": "https://data.eastmoney.com/notices/detail/002971/AN202606141823550707.html",
+          "art_code": "AN202606141823550707"
+        }
+      ],
+      "tone": "偏风险",
+      "note": "存在异动/风险/问询或减持类标题，强势票按风险扰动处理。"
+    },
+    "600500": {
+      "items": [],
+      "tone": "中性",
+      "note": "无新增公告扰动。"
+    },
+    "688146": {
+      "items": [],
+      "tone": "中性",
+      "note": "无新增公告扰动。"
+    },
+    "601958": {
+      "items": [
+        {
+          "date": "2026-06-15",
+          "title": "金钼股份:金钼股份股票交易风险提示公告",
+          "url": "https://data.eastmoney.com/notices/detail/601958/AN202606151823572208.html",
+          "art_code": "AN202606151823572208"
+        }
+      ],
+      "tone": "偏风险",
+      "note": "存在异动/风险/问询或减持类标题，强势票按风险扰动处理。"
+    },
+    "603993": {
+      "items": [
+        {
+          "date": "2026-06-15",
+          "title": "洛阳钼业:洛阳钼业股票交易异常波动公告",
+          "url": "https://data.eastmoney.com/notices/detail/603993/AN202606151823572189.html",
+          "art_code": "AN202606151823572189"
+        }
+      ],
+      "tone": "偏风险",
+      "note": "存在异动/风险/问询或减持类标题，强势票按风险扰动处理。"
+    }
+  },
+  "status": "interview_completed_user_plan_pending",
+  "missing_user_interview": false,
+  "missing_inputs": [
+    "原始买入/卖出理由",
+    "2026-06-16 用户明日计划"
+  ],
+  "missing_user_plan": true,
+  "user_interview": {
+    "source": "user provided three trading screenshots at 22:44-22:45",
+    "account": {
+      "total_asset": 10093.6,
+      "market_value": 4732.0,
+      "available_cash": 5361.6,
+      "withdrawable": 4504.38,
+      "position_pnl": -218.78,
+      "daily_pnl": -213.79
+    },
+    "trades": [
+      {
+        "time": "09:34:15",
+        "code": "002971",
+        "name": "和远气体",
+        "side": "sell",
+        "entrust_price": 54.79,
+        "avg_price": 54.79,
+        "quantity": 100,
+        "status": "filled"
+      },
+      {
+        "time": "09:35:14",
+        "code": "600162",
+        "name": "香江控股",
+        "side": "buy",
+        "entrust_price": 3.55,
+        "avg_price": 3.545,
+        "quantity": 1300,
+        "status": "filled"
+      }
+    ],
+    "positions": [
+      {
+        "code": "600162",
+        "name": "香江控股",
+        "quantity": 1300,
+        "cost": 3.549,
+        "price": 3.64,
+        "market_value": 4732.0,
+        "pnl": 117.96,
+        "pnl_pct": 2.564,
+        "weight_pct": 46.88
+      },
+      {
+        "code": "002971",
+        "name": "和远气体",
+        "quantity": 0,
+        "price": 56.78,
+        "pnl": -336.74,
+        "note": "cleared; screenshot口径"
+      }
+    ],
+    "visible_watchlist": [
+      {
+        "code": "000636",
+        "name": "风华高科",
+        "price": 65.03,
+        "pct": 10.0
+      },
+      {
+        "code": "601958",
+        "name": "金钼股份",
+        "price": 28.07,
+        "pct": 9.99
+      },
+      {
+        "code": "603993",
+        "name": "洛阳钼业",
+        "price": 20.92,
+        "pct": 9.47
+      },
+      {
+        "code": "600162",
+        "name": "香江控股",
+        "price": 3.64,
+        "pct": 4.9
+      },
+      {
+        "code": "600396",
+        "name": "华电辽能",
+        "price": 17.83,
+        "pct": 1.89
+      },
+      {
+        "code": "600367",
+        "name": "红星发展",
+        "price": 53.95,
+        "pct": 1.73
+      },
+      {
+        "code": "603065",
+        "name": "宿迁联盛",
+        "price": 13.4,
+        "pct": -1.47
+      },
+      {
+        "code": "002971",
+        "name": "和远气体",
+        "price": 56.78,
+        "pct": -2.15
+      },
+      {
+        "code": "002421",
+        "name": "达实智能",
+        "price": 4.01,
+        "pct": -8.86
+      },
+      {
+        "code": "600403",
+        "name": "大有能源",
+        "price": 6.53,
+        "pct": -9.93
+      }
+    ]
+  },
+  "execution_review": {
+    "score": 70,
+    "plan_consistency": "和远气体清仓符合上一版防守计划；香江控股买入为计划外新开仓。",
+    "risk_note": "香江控股计划外仓位约 46.88%，明日优先验证承接并保护浮盈。"
+  },
+  "market_overview": {
+    "base_date": "2026-03-18",
+    "end_date": "2026-06-15",
+    "sse_60d_relative_pct": 0.82,
+    "star50_60d_relative_pct": 27.38,
+    "star50_minus_sse_pct": 26.55,
+    "sse_today_pct": 1.61,
+    "szse_today_pct": 3.79,
+    "star50_today_pct": 5.12,
+    "combined_volume_yi_shares": 1452.1,
+    "volume_vs_prev6_avg_pct": 3.67,
+    "volume_vs_20260612_pct": -6.71,
+    "breadth_up": 3923,
+    "breadth_down": 1515,
+    "limit_up": 144,
+    "open_limit": 42,
+    "lower_limit": 3,
+    "conclusion": "指数强修复但不是6月12日式放量全面确认；科创/深成强于上证，宽度偏强，持仓侧仍按个股承接风控。"
+  },
+  "blocks_source": "kaipanla_strength_ranking",
+  "kaipanla_sector_strength": {
+    "source": "kaipanla apphq/apphis strength ranking",
+    "today": {
+      "selected": [
+        {
+          "code": "801660",
+          "name": "通信",
+          "strength": 40075,
+          "pct": 5.513,
+          "momentum": 0.409
+        },
+        {
+          "code": "801001",
+          "name": "芯片",
+          "strength": 27385,
+          "pct": 4.375,
+          "momentum": 0.734
+        },
+        {
+          "code": "801445",
+          "name": "元器件",
+          "strength": 12620,
+          "pct": 6.26,
+          "momentum": 0.32
+        },
+        {
+          "code": "801159",
+          "name": "机器人概念",
+          "strength": 11391,
+          "pct": 2.839,
+          "momentum": 0.661
+        },
+        {
+          "code": "801807",
+          "name": "算力",
+          "strength": 9820,
+          "pct": 3.671,
+          "momentum": 0.697
+        },
+        {
+          "code": "801088",
+          "name": "有色金属",
+          "strength": 5900,
+          "pct": 3.367,
+          "momentum": 0.562
+        },
+        {
+          "code": "801235",
+          "name": "化工",
+          "strength": 5229,
+          "pct": 1.862,
+          "momentum": 1.212
+        },
+        {
+          "code": "801004",
+          "name": "锂电池",
+          "strength": 4940,
+          "pct": 3.304,
+          "momentum": 1.026
+        }
+      ],
+      "concepts": [
+        {
+          "code": "886020",
+          "name": "PET铜箔",
+          "strength": 2493,
+          "pct": 8.273,
+          "momentum": 0.019
+        },
+        {
+          "code": "885959",
+          "name": "PCB概念",
+          "strength": 2107,
+          "pct": 7.742,
+          "momentum": 0.027
+        },
+        {
+          "code": "886033",
+          "name": "共封装光学(CPO)",
+          "strength": 1875,
+          "pct": 7.651,
+          "momentum": 0.025
+        },
+        {
+          "code": "886009",
+          "name": "先进封装",
+          "strength": 1568,
+          "pct": 6.947,
+          "momentum": 0.015
+        },
+        {
+          "code": "885875",
+          "name": "MiniLED",
+          "strength": 1507,
+          "pct": 6.14,
+          "momentum": -0.004
+        },
+        {
+          "code": "885886",
+          "name": "超级电容",
+          "strength": 1489,
+          "pct": 5.141,
+          "momentum": 0.022
+        },
+        {
+          "code": "885786",
+          "name": "富士康概念",
+          "strength": 1446,
+          "pct": 6.086,
+          "momentum": 0.041
+        },
+        {
+          "code": "885998",
+          "name": "F5G概念",
+          "strength": 1431,
+          "pct": 6.813,
+          "momentum": 0.008
+        }
+      ],
+      "constituents_status": "current-day ZhiShuStockList_W8 returned empty; not substituted with THS as KPL core names"
+    },
+    "previous": {
+      "date": "2026-06-12",
+      "selected": [
+        {
+          "code": "801088",
+          "name": "有色金属",
+          "strength": 7545,
+          "pct": 2.723,
+          "momentum": 1.249
+        },
+        {
+          "code": "801250",
+          "name": "并购重组",
+          "strength": 6178,
+          "pct": 0.872,
+          "momentum": 1.343
+        },
+        {
+          "code": "801843",
+          "name": "商业航天",
+          "strength": 5500,
+          "pct": 0.959,
+          "momentum": 0.52
+        },
+        {
+          "code": "801081",
+          "name": "证券",
+          "strength": 4387,
+          "pct": 3.88,
+          "momentum": 1.113
+        },
+        {
+          "code": "801660",
+          "name": "通信",
+          "strength": 4268,
+          "pct": -0.207,
+          "momentum": 1.983
+        },
+        {
+          "code": "801062",
+          "name": "军工",
+          "strength": 4262,
+          "pct": 1.479,
+          "momentum": 1.555
+        },
+        {
+          "code": "801048",
+          "name": "黄金",
+          "strength": 4081,
+          "pct": 4.247,
+          "momentum": 1.08
+        },
+        {
+          "code": "801001",
+          "name": "芯片",
+          "strength": 4032,
+          "pct": -0.483,
+          "momentum": 2.084
+        }
+      ],
+      "concepts": [
+        {
+          "code": "885973",
+          "name": "金属铜",
+          "strength": 1099,
+          "pct": 4.402,
+          "momentum": -0.03
+        },
+        {
+          "code": "885530",
+          "name": "黄金概念",
+          "strength": 1099,
+          "pct": 4.491,
+          "momentum": -0.002
+        },
+        {
+          "code": "885970",
+          "name": "金属锌",
+          "strength": 1048,
+          "pct": 4.903,
+          "momentum": -0.043
+        },
+        {
+          "code": "885971",
+          "name": "金属铅",
+          "strength": 947,
+          "pct": 4.861,
+          "momentum": 0.034
+        },
+        {
+          "code": "885500",
+          "name": "通用航空",
+          "strength": 761,
+          "pct": 3.26,
+          "momentum": 0.018
+        },
+        {
+          "code": "885552",
+          "name": "小金属概念",
+          "strength": 757,
+          "pct": 3.182,
+          "momentum": 0.06
+        },
+        {
+          "code": "885284",
+          "name": "稀缺资源",
+          "strength": 671,
+          "pct": 3.59,
+          "momentum": 0.151
+        },
+        {
+          "code": "885605",
+          "name": "P2P概念",
+          "strength": 601,
+          "pct": 2.942,
+          "momentum": -0.261
+        }
+      ]
+    },
+    "conclusion": "6月12日强在有色/金属链；6月15日切到通信、芯片、元器件，细分为PET铜箔、PCB、CPO、先进封装。"
+  }
+}
